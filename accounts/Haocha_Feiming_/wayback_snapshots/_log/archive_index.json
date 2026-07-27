@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T20:48:12",
+  "last_updated": "2026-07-27T20:48:33",
   "html": {
     "https://web.archive.org/web/20260626202949if_/https://twitter.com/Haocha_Feiming_/status/2070605474723238085": {
       "status": "done",
@@ -3691,10 +3691,11 @@
       "last_updated": "2026-07-27T16:01:52"
     },
     "https://pbs.twimg.com/profile_images/2059616436331651072/FWTnGIaR_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260727033255_twitter_com_Haocha_Feiming__status_2081583584792764617.json"
-      ]
+      ],
+      "last_updated": "2026-07-27T20:48:33"
     }
   },
   "media": {
@@ -7382,7 +7383,7 @@
       "last_updated": "2026-07-27T20:44:51"
     },
     "20260727033255_twitter_com_Haocha_Feiming__status_2081583584792764617.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HJoR84WaIAA3jLe.jpg",
@@ -7395,7 +7396,7 @@
           "https://pbs.twimg.com/profile_images/2059616436331651072/FWTnGIaR_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T20:48:12"
+      "last_updated": "2026-07-27T20:48:33"
     }
   }
 }
