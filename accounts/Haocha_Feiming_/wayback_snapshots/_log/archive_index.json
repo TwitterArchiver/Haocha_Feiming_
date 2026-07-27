@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T20:51:38",
+  "last_updated": "2026-07-27T20:52:15",
   "html": {
     "https://web.archive.org/web/20260626202949if_/https://twitter.com/Haocha_Feiming_/status/2070605474723238085": {
       "status": "done",
@@ -2842,18 +2842,18 @@
       "referenced_by": [
         "20260628195650_twitter_com_Haocha_Feiming__status_2071321948416811329.json"
       ],
-      "last_updated": "2026-07-27T16:01:31",
+      "last_updated": "2026-07-27T20:52:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260628195650/https://video.twimg.com/amplify_video/2071321888832528384/vid/avc1/720x1280/ChWoQS9o51rCGvbj.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2072249901619236864/vid/avc1/720x1280/2hy94N00PArpRfWB.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260701092417_twitter_com_Haocha_Feiming__status_2072249924281065760.json"
       ],
-      "last_updated": "2026-07-27T16:01:31",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260701092417/https://video.twimg.com/amplify_video/2072249901619236864/vid/avc1/720x1280/2hy94N00PArpRfWB.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-27T20:52:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701092417im_/https://video.twimg.com/amplify_video/2072249901619236864/vid/avc1/720x1280/2hy94N00PArpRfWB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9e8f51490>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2072585588742799360/vid/avc1/720x1280/3Pw9vtmJfOJvgEI9.mp4": {
       "status": "done",
@@ -2864,13 +2864,13 @@
       "last_updated": "2026-07-27T16:01:27"
     },
     "https://video.twimg.com/amplify_video/2072646292690595840/vid/avc1/590x1280/kqIQjdCagjmBfZAu.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260702113934_twitter_com_Haocha_Feiming__status_2072646356771209616.json"
       ],
-      "last_updated": "2026-07-27T16:01:30",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260702113934/https://video.twimg.com/amplify_video/2072646292690595840/vid/avc1/590x1280/kqIQjdCagjmBfZAu.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-27T20:52:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260702113934im_/https://video.twimg.com/amplify_video/2072646292690595840/vid/avc1/590x1280/kqIQjdCagjmBfZAu.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9e8f53e60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2074283982548787200/vid/avc1/720x1280/CfOlnVGUHL5Ezbx1.mp4": {
       "status": "done",
@@ -3969,7 +3969,7 @@
       "miss_count": 2
     },
     "20260701092417_twitter_com_Haocha_Feiming__status_2072249924281065760.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -3979,7 +3979,7 @@
           "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T16:01:52"
+      "last_updated": "2026-07-27T20:52:11"
     },
     "20260701113555_twitter_com_Haocha_Feiming__status_2072283051305103366.json": {
       "status": "done",
@@ -4113,7 +4113,7 @@
       "last_updated": "2026-07-27T16:01:52"
     },
     "20260702113934_twitter_com_Haocha_Feiming__status_2072646356771209616.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -4123,7 +4123,7 @@
           "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T16:01:52"
+      "last_updated": "2026-07-27T20:52:15"
     },
     "20260702220428_twitter_com_Haocha_Feiming__status_2072803621708906731.json": {
       "status": "done",
