@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080190829629698048",
+        "13_2080190829625528320"
+      ],
+      "media_source_tweet_id": [
+        "2080190894171660305",
+        "2080190894171660305"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080507770290557109",
+    "created_at": "2026-07-24T04:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080507770290557109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066038957553360896",
+          "start": 3,
+          "username": "withu_4ever_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GTQDGUbN31",
+          "end": 47,
+          "expanded_url": "https://x.com/withu_4ever_/status/2080190894171660305/video/1",
+          "media_key": "13_2080190829629698048",
+          "start": 24,
+          "url": "https://t.co/GTQDGUbN31"
+        },
+        {
+          "display_url": "pic.x.com/GTQDGUbN31",
+          "end": 47,
+          "expanded_url": "https://x.com/withu_4ever_/status/2080190894171660305/video/1",
+          "media_key": "13_2080190829625528320",
+          "start": 24,
+          "url": "https://t.co/GTQDGUbN31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080507770290557109",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080190894171660305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @withu_4ever_: juice https://t.co/GTQDGUbN31"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4200,
+        "height": 1280,
+        "media_key": "13_2080190829629698048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080190829629698048/img/y8qOVYLjfT3QS-Ls.jpg",
+        "public_metrics": {
+          "view_count": 1501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080190829629698048/vid/avc1/320x568/7US2kyZ7NXsd4L4-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080190829629698048/vid/avc1/480x852/9A9mCudPE8bRbeV2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080190829629698048/vid/avc1/720x1280/MLaBi3AvJ4pFNIiT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080190829629698048/pl/D9h70s6L8lj99Wm6.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 4387,
+        "height": 960,
+        "media_key": "13_2080190829625528320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080190829625528320/img/FvYwIr_03rwURzlV.jpg",
+        "public_metrics": {
+          "view_count": 247
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080190829625528320/vid/avc1/320x426/2tBHCcC4_jhtWmKl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080190829625528320/vid/avc1/480x640/THXs1uJszHJPu0gv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080190829625528320/vid/avc1/720x960/eEMCrt7lgCYcUueb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080190829625528320/pl/PJEr0oLs46X-g5Zo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080190829629698048",
+            "13_2080190829625528320"
+          ]
+        },
+        "author_id": "2066038957553360896",
+        "conversation_id": "2080190894171660305",
+        "created_at": "2026-07-23T07:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080190894171660305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTQDGUbN31",
+              "end": 29,
+              "expanded_url": "https://x.com/withu_4ever_/status/2080190894171660305/video/1",
+              "media_key": "13_2080190829629698048",
+              "start": 6,
+              "url": "https://t.co/GTQDGUbN31"
+            },
+            {
+              "display_url": "pic.x.com/GTQDGUbN31",
+              "end": 29,
+              "expanded_url": "https://x.com/withu_4ever_/status/2080190894171660305/video/1",
+              "media_key": "13_2080190829625528320",
+              "start": 6,
+              "url": "https://t.co/GTQDGUbN31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080190894171660305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2788,
+          "like_count": 354,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "juice https://t.co/GTQDGUbN31"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080190829629698048",
+            "13_2080190829625528320"
+          ],
+          "media_source_tweet_id": [
+            "2080190894171660305",
+            "2080190894171660305"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080507770290557109",
+        "created_at": "2026-07-24T04:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080507770290557109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066038957553360896",
+              "start": 3,
+              "username": "withu_4ever_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTQDGUbN31",
+              "end": 47,
+              "expanded_url": "https://x.com/withu_4ever_/status/2080190894171660305/video/1",
+              "media_key": "13_2080190829629698048",
+              "start": 24,
+              "url": "https://t.co/GTQDGUbN31"
+            },
+            {
+              "display_url": "pic.x.com/GTQDGUbN31",
+              "end": 47,
+              "expanded_url": "https://x.com/withu_4ever_/status/2080190894171660305/video/1",
+              "media_key": "13_2080190829625528320",
+              "start": 24,
+              "url": "https://t.co/GTQDGUbN31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080507770290557109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080190894171660305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @withu_4ever_: juice https://t.co/GTQDGUbN31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 63,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T06:05:10.000Z",
+        "description": "shedtwt 精神障害 主垢@Haocha_Feiming_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "Haocha_Feiming_"
+              }
+            ]
+          }
+        },
+        "id": "2066038957553360896",
+        "location": "距离你5.2km",
+        "name": "知りたい、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079467411045285888/cyX8sD_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 46,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "withu_4ever_",
+        "verified": false
+      }
+    ]
+  }
+}

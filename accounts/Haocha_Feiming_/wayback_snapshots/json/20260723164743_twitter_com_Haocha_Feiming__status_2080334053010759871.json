@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079573890683301888"
+      ],
+      "media_source_tweet_id": [
+        "2079573917505901023"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2080334053010759871",
+    "created_at": "2026-07-23T16:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080334053010759871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013802829450821632",
+          "start": 3,
+          "username": "cacapyandgab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZnsRAVjqjq",
+          "end": 88,
+          "expanded_url": "https://x.com/Meowmagics/status/2079573917505901023/video/1",
+          "media_key": "13_2079573890683301888",
+          "start": 65,
+          "url": "https://t.co/ZnsRAVjqjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080334053010759871",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080094232157556888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cacapyandgab: fico assim quando meu namorado não me responde https://t.co/ZnsRAVjqjq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 718,
+        "media_key": "13_2079573890683301888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079573890683301888/img/jnQc3xNEF94dEEi4.jpg",
+        "public_metrics": {
+          "view_count": 277479
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079573890683301888/vid/avc1/312x270/Db64iz4CShUNeh8w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079573890683301888/vid/avc1/416x360/Byi195_c8BYDru9L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079573890683301888/vid/avc1/832x718/2DGcqoeYOeLi2biM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079573890683301888/pl/-p0GZdJXirw9JBG8.m3u8?v=cfc"
+          }
+        ],
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079573890683301888"
+          ]
+        },
+        "author_id": "2049694418203238400",
+        "conversation_id": "2079573917505901023",
+        "created_at": "2026-07-21T14:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079573917505901023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmneitlZhB",
+              "end": 23,
+              "expanded_url": "https://x.com/Meowmagics/status/2079573917505901023/video/1",
+              "media_key": "13_2079573890683301888",
+              "start": 0,
+              "url": "https://t.co/KmneitlZhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079573917505901023",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 665,
+          "impression_count": 904850,
+          "like_count": 4781,
+          "quote_count": 127,
+          "reply_count": 34,
+          "retweet_count": 673
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KmneitlZhB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079573890683301888"
+          ],
+          "media_source_tweet_id": [
+            "2079573917505901023"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2080334053010759871",
+        "created_at": "2026-07-23T16:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080334053010759871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013802829450821632",
+              "start": 3,
+              "username": "cacapyandgab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnsRAVjqjq",
+              "end": 88,
+              "expanded_url": "https://x.com/Meowmagics/status/2079573917505901023/video/1",
+              "media_key": "13_2079573890683301888",
+              "start": 65,
+              "url": "https://t.co/ZnsRAVjqjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080334053010759871",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080094232157556888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cacapyandgab: fico assim quando meu namorado não me responde https://t.co/ZnsRAVjqjq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079573890683301888"
+          ],
+          "media_source_tweet_id": [
+            "2079573917505901023"
+          ]
+        },
+        "author_id": "2013802829450821632",
+        "conversation_id": "2080094232157556888",
+        "created_at": "2026-07-23T00:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080094232157556888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnsRAVjqjq",
+              "end": 70,
+              "expanded_url": "https://x.com/Meowmagics/status/2079573917505901023/video/1",
+              "media_key": "13_2079573890683301888",
+              "start": 47,
+              "url": "https://t.co/ZnsRAVjqjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080094232157556888",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1611,
+          "impression_count": 439252,
+          "like_count": 11243,
+          "quote_count": 96,
+          "reply_count": 59,
+          "retweet_count": 1177
+        },
+        "reply_settings": "everyone",
+        "text": "fico assim quando meu namorado não me responde https://t.co/ZnsRAVjqjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 恋人@_XnanX_418 餐券逼欢迎互fo 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 82,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T02:36:48.000Z",
+        "description": "amo meu namorado",
+        "id": "2013802829450821632",
+        "location": "vent acc",
+        "name": "Gab esnupe da silva junior, vulgo juropinha",
+        "pinned_tweet_id": "2078951993436217809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076778534291267584/DmDer0ZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 48,
+          "like_count": 23061,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2189
+        },
+        "url": "",
+        "username": "cacapyandgab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078474014469783552"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078474043221852582",
+    "created_at": "2026-07-18T13:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078474043221852582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mqL9N7h4pb",
+          "end": 25,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2078474043221852582/photo/1",
+          "media_key": "3_2078474014469783552",
+          "start": 2,
+          "url": "https://t.co/mqL9N7h4pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078474043221852582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉 https://t.co/mqL9N7h4pb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078474014469783552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg5GptaAAAmlkT.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078474014469783552"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078474043221852582",
+        "created_at": "2026-07-18T13:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078474043221852582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqL9N7h4pb",
+              "end": 25,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2078474043221852582/photo/1",
+              "media_key": "3_2078474014469783552",
+              "start": 2,
+              "url": "https://t.co/mqL9N7h4pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078474043221852582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/mqL9N7h4pb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 恋人@_XnanX_418 餐券逼欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 72,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

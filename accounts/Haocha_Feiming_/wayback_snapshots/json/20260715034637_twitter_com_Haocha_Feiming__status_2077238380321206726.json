@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074408795900620800"
+      ],
+      "media_source_tweet_id": [
+        "2074408854482534681"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2077238380321206726",
+    "created_at": "2026-07-15T03:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077238380321206726"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 43,
+          "start": 29,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 52,
+          "start": 46,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 67,
+          "start": 55,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "地雷系"
+        },
+        {
+          "end": 85,
+          "start": 73,
+          "tag": "地雷系さんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1243828267439792128",
+          "start": 3,
+          "username": "Haocha_Feiming_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVnGLHK6tp",
+          "end": 109,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2074408854482534681/video/1",
+          "media_key": "13_2074408795900620800",
+          "start": 86,
+          "url": "https://t.co/UVnGLHK6tp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077238380321206726",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074408854482534681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Haocha_Feiming_: #自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/UVnGLHK6tp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2368,
+        "height": 1280,
+        "media_key": "13_2074408795900620800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074408795900620800/img/g71j_LHrEFL94xVB.jpg",
+        "public_metrics": {
+          "view_count": 223
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074408795900620800/vid/avc1/320x568/2ocfF2bwXe7Wg4gM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074408795900620800/vid/avc1/480x852/zdFzzELU_169WEBp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074408795900620800/vid/avc1/720x1280/VuTy5TufAW2Cv3r2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074408795900620800/pl/4WmDO_HE3FFz8JSs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074408795900620800"
+          ],
+          "media_source_tweet_id": [
+            "2074408854482534681"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2077238380321206726",
+        "created_at": "2026-07-15T03:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077238380321206726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 43,
+              "start": 29,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 67,
+              "start": 55,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "地雷系"
+            },
+            {
+              "end": 85,
+              "start": 73,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1243828267439792128",
+              "start": 3,
+              "username": "Haocha_Feiming_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVnGLHK6tp",
+              "end": 109,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2074408854482534681/video/1",
+              "media_key": "13_2074408795900620800",
+              "start": 86,
+              "url": "https://t.co/UVnGLHK6tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077238380321206726",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074408854482534681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Haocha_Feiming_: #自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/UVnGLHK6tp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074408795900620800"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2074408854482534681",
+        "created_at": "2026-07-07T08:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074408854482534681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "地雷系"
+            },
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVnGLHK6tp",
+              "end": 88,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2074408854482534681/video/1",
+              "media_key": "13_2074408795900620800",
+              "start": 65,
+              "url": "https://t.co/UVnGLHK6tp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074408854482534681",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1647,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/UVnGLHK6tp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 寻回互关中 前世被奸人所害 恋人@_XnanX_418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 68,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

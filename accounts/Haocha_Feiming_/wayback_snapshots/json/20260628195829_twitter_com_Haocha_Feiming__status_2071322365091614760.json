@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2071322365091614760",
+    "created_at": "2026-06-28T19:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071322365091614760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1939632627755147264",
+          "start": 3,
+          "username": "xiaoxiongmaoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071322365091614760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071183685043523800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxiongmaoTvT: 老公啊 你要是敢对着别人导管子 我就把你拖出去砍唧唧 知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2071322365091614760",
+        "created_at": "2026-06-28T19:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071322365091614760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1939632627755147264",
+              "start": 3,
+              "username": "xiaoxiongmaoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071322365091614760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071183685043523800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoxiongmaoTvT: 老公啊 你要是敢对着别人导管子 我就把你拖出去砍唧唧 知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632627755147264",
+        "conversation_id": "2071183685043523800",
+        "created_at": "2026-06-28T10:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071183685043523800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071183685043523800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 34479,
+          "like_count": 487,
+          "quote_count": 3,
+          "reply_count": 146,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "老公啊 你要是敢对着别人导管子 我就把你拖出去砍唧唧 知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 前世被奸人所害 恋人@_XnanX_418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "已婚\n\n只过互关@tiantianmaoovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "tiantianmaoovo"
+              }
+            ]
+          }
+        },
+        "id": "1939632627755147264",
+        "name": "天才咪",
+        "pinned_tweet_id": "2059289265755009366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064203778791018496/UvaKQuWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5655,
+          "following_count": 907,
+          "like_count": 8926,
+          "listed_count": 7,
+          "media_count": 463,
+          "tweet_count": 6575
+        },
+        "url": "",
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

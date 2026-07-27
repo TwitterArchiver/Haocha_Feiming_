@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075547119889620992",
+        "3_2075547119914733568",
+        "3_2075547119893835776"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2075547135437898125",
+    "created_at": "2026-07-10T11:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075547135437898125"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9wppqvp5c",
+          "end": 30,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2075547135437898125/photo/1",
+          "media_key": "3_2075547119889620992",
+          "start": 7,
+          "url": "https://t.co/f9wppqvp5c"
+        },
+        {
+          "display_url": "pic.x.com/f9wppqvp5c",
+          "end": 30,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2075547135437898125/photo/1",
+          "media_key": "3_2075547119914733568",
+          "start": 7,
+          "url": "https://t.co/f9wppqvp5c"
+        },
+        {
+          "display_url": "pic.x.com/f9wppqvp5c",
+          "end": 30,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2075547135437898125/photo/1",
+          "media_key": "3_2075547119893835776",
+          "start": 7,
+          "url": "https://t.co/f9wppqvp5c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075547135437898125",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈 https://t.co/f9wppqvp5c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2075547119889620992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3TG9ubIAAazsz.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2075547119914733568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3TG90aUAA5k3j.jpg",
+        "width": 1808
+      },
+      {
+        "height": 1006,
+        "media_key": "3_2075547119893835776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3TG9vbcAAarJR.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075547119889620992",
+            "3_2075547119914733568",
+            "3_2075547119893835776"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2075547135437898125",
+        "created_at": "2026-07-10T11:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075547135437898125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9wppqvp5c",
+              "end": 30,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2075547135437898125/photo/1",
+              "media_key": "3_2075547119889620992",
+              "start": 7,
+              "url": "https://t.co/f9wppqvp5c"
+            },
+            {
+              "display_url": "pic.x.com/f9wppqvp5c",
+              "end": 30,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2075547135437898125/photo/1",
+              "media_key": "3_2075547119914733568",
+              "start": 7,
+              "url": "https://t.co/f9wppqvp5c"
+            },
+            {
+              "display_url": "pic.x.com/f9wppqvp5c",
+              "end": 30,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2075547135437898125/photo/1",
+              "media_key": "3_2075547119893835776",
+              "start": 7,
+              "url": "https://t.co/f9wppqvp5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075547135437898125",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/f9wppqvp5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 寻回互关中 前世被奸人所害 恋人@_XnanX_418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 66,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

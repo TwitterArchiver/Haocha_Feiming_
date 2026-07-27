@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078810486582239232"
+      ],
+      "media_source_tweet_id": [
+        "2078810505787965725"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2079045132524167231",
+    "created_at": "2026-07-20T03:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079045132524167231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1980479917306298368",
+          "start": 3,
+          "username": "acervygatinhos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wxSmI7FwjY",
+          "end": 90,
+          "expanded_url": "https://x.com/acervygatinhos/status/2078810505787965725/video/1",
+          "media_key": "13_2078810486582239232",
+          "start": 67,
+          "url": "https://t.co/wxSmI7FwjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079045132524167231",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078810505787965725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acervygatinhos: gatinho com olhos cheio de lágrima chorando mt https://t.co/wxSmI7FwjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10906,
+        "height": 720,
+        "media_key": "13_2078810486582239232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078810486582239232/img/bkVUKyBOO_Z50Fd2.jpg",
+        "public_metrics": {
+          "view_count": 45521
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078810486582239232/vid/avc1/320x270/79M2ssHhQu55ktCG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078810486582239232/vid/avc1/428x360/khp3u4Kyzz4F79PN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078810486582239232/vid/avc1/858x720/kcIfHcN130RgewwI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078810486582239232/pl/-Vl0oIZDz7Dq9QTB.m3u8?v=cfc"
+          }
+        ],
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078810486582239232"
+          ]
+        },
+        "author_id": "1980479917306298368",
+        "conversation_id": "2078810505787965725",
+        "created_at": "2026-07-19T11:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078810505787965725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxSmI7FwjY",
+              "end": 70,
+              "expanded_url": "https://x.com/acervygatinhos/status/2078810505787965725/video/1",
+              "media_key": "13_2078810486582239232",
+              "start": 47,
+              "url": "https://t.co/wxSmI7FwjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078810505787965725",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1289,
+          "impression_count": 136432,
+          "like_count": 10312,
+          "quote_count": 276,
+          "reply_count": 21,
+          "retweet_count": 1364
+        },
+        "reply_settings": "everyone",
+        "text": "gatinho com olhos cheio de lágrima chorando mt https://t.co/wxSmI7FwjY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078810486582239232"
+          ],
+          "media_source_tweet_id": [
+            "2078810505787965725"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2079045132524167231",
+        "created_at": "2026-07-20T03:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079045132524167231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1980479917306298368",
+              "start": 3,
+              "username": "acervygatinhos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxSmI7FwjY",
+              "end": 90,
+              "expanded_url": "https://x.com/acervygatinhos/status/2078810505787965725/video/1",
+              "media_key": "13_2078810486582239232",
+              "start": 67,
+              "url": "https://t.co/wxSmI7FwjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079045132524167231",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078810505787965725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acervygatinhos: gatinho com olhos cheio de lágrima chorando mt https://t.co/wxSmI7FwjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 恋人@_XnanX_418 餐券逼欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 72,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:43:20.000Z",
+        "description": "videos de gatinhos pra vcs 🐈",
+        "id": "1980479917306298368",
+        "location": "Brasil",
+        "name": "acervo gatinhos",
+        "pinned_tweet_id": "1993748537029587296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078447272602300416/ANAl_uSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "acervygatinhos",
+        "verified": false
+      }
+    ]
+  }
+}

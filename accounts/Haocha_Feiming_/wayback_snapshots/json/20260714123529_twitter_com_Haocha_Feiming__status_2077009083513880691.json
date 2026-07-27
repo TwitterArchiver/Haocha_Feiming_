@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2076837697059233979",
+    "created_at": "2026-07-14T12:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077009083513880691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911429624694730753",
+          "start": 0,
+          "username": "huixue888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077009083513880691",
+    "in_reply_to_user_id": "1911429624694730753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076997027574223105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixue888 妻子😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2076837697059233979",
+        "created_at": "2026-07-14T12:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077009083513880691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911429624694730753",
+              "start": 0,
+              "username": "huixue888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077009083513880691",
+        "in_reply_to_user_id": "1911429624694730753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076997027574223105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixue888 妻子😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911429624694730753",
+        "conversation_id": "2076837697059233979",
+        "created_at": "2026-07-14T11:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076997027574223105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243828267439792128",
+              "start": 0,
+              "username": "Haocha_Feiming_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076997027574223105",
+        "in_reply_to_user_id": "1243828267439792128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076837697059233979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haocha_Feiming_ 乐途还是太有品味了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 寻回互关中 前世被奸人所害 恋人@_XnanX_418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 68,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:42:06.000Z",
+        "description": "｜09高中辍学｜超级社恐｜喜欢听0014556 尹康 小怜 极贵｜同类，od妹，边缘化青少年互fo好不好！（会查成分\n｜不鉴证 不发黄｜",
+        "id": "1911429624694730753",
+        "location": "上海",
+        "name": "奶猪🐽",
+        "pinned_tweet_id": "2031575477773808131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 284,
+          "like_count": 5426,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "huixue888",
+        "verified": false
+      }
+    ]
+  }
+}

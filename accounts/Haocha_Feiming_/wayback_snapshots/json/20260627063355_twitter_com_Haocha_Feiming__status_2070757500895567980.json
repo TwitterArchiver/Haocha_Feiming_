@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070606123858862080"
+      ],
+      "media_source_tweet_id": [
+        "2070606134759883246"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2070757500895567980",
+    "created_at": "2026-06-27T06:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070757500895567980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1243828267439792128",
+          "start": 3,
+          "username": "Haocha_Feiming_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAUM87UrwE",
+          "end": 57,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2070606134759883246/photo/1",
+          "media_key": "3_2070606123858862080",
+          "start": 34,
+          "url": "https://t.co/qAUM87UrwE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070757500895567980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070606134759883246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Haocha_Feiming_: 我一直在哭寻找前世互关中 https://t.co/qAUM87UrwE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070606123858862080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxFTJJbIAAAYRu.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070606123858862080"
+          ],
+          "media_source_tweet_id": [
+            "2070606134759883246"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2070757500895567980",
+        "created_at": "2026-06-27T06:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070757500895567980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1243828267439792128",
+              "start": 3,
+              "username": "Haocha_Feiming_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAUM87UrwE",
+              "end": 57,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2070606134759883246/photo/1",
+              "media_key": "3_2070606123858862080",
+              "start": 34,
+              "url": "https://t.co/qAUM87UrwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070757500895567980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070606134759883246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Haocha_Feiming_: 我一直在哭寻找前世互关中 https://t.co/qAUM87UrwE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070606123858862080"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2070606134759883246",
+        "created_at": "2026-06-26T20:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T21:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070606134759883246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAUM87UrwE",
+              "end": 36,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2070606134759883246/photo/1",
+              "media_key": "3_2070606123858862080",
+              "start": 13,
+              "url": "https://t.co/qAUM87UrwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070606134759883246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭寻找前世互关中 https://t.co/qAUM87UrwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 前世被奸人所害 恋人@_XnanX_418",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 28,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

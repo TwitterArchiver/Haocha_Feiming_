@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079195592870502401",
+        "3_2079195592878911488"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2079195611669446788",
+    "created_at": "2026-07-20T13:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079195611669446788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uwEILOd2JE",
+          "end": 30,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2079195611669446788/photo/1",
+          "media_key": "3_2079195592870502401",
+          "start": 7,
+          "url": "https://t.co/uwEILOd2JE"
+        },
+        {
+          "display_url": "pic.x.com/uwEILOd2JE",
+          "end": 30,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2079195611669446788/photo/1",
+          "media_key": "3_2079195592878911488",
+          "start": 7,
+          "url": "https://t.co/uwEILOd2JE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079195611669446788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "展示女性魅力 https://t.co/uwEILOd2JE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2079195592870502401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrJYCuaoAESMnN.jpg",
+        "width": 576
+      },
+      {
+        "height": 213,
+        "media_key": "3_2079195592878911488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrJYCwa8AA9DVr.jpg",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079195592870502401",
+            "3_2079195592878911488"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2079195611669446788",
+        "created_at": "2026-07-20T13:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079195611669446788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwEILOd2JE",
+              "end": 30,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2079195611669446788/photo/1",
+              "media_key": "3_2079195592870502401",
+              "start": 7,
+              "url": "https://t.co/uwEILOd2JE"
+            },
+            {
+              "display_url": "pic.x.com/uwEILOd2JE",
+              "end": 30,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2079195611669446788/photo/1",
+              "media_key": "3_2079195592878911488",
+              "start": 7,
+              "url": "https://t.co/uwEILOd2JE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079195611669446788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示女性魅力 https://t.co/uwEILOd2JE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 恋人@_XnanX_418 餐券逼欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 72,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

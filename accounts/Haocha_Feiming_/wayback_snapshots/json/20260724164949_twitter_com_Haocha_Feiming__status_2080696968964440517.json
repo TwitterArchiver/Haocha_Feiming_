@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080696873732784128",
+        "3_2080696873405583360",
+        "3_2080696205605285888"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2080696968964440517",
+    "created_at": "2026-07-24T16:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080696968964440517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EcaKkckRg3",
+          "end": 34,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2080696968964440517/photo/1",
+          "media_key": "3_2080696873732784128",
+          "start": 11,
+          "url": "https://t.co/EcaKkckRg3"
+        },
+        {
+          "display_url": "pic.x.com/EcaKkckRg3",
+          "end": 34,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2080696968964440517/photo/1",
+          "media_key": "3_2080696873405583360",
+          "start": 11,
+          "url": "https://t.co/EcaKkckRg3"
+        },
+        {
+          "display_url": "pic.x.com/EcaKkckRg3",
+          "end": 34,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2080696968964440517/photo/1",
+          "media_key": "3_2080696205605285888",
+          "start": 11,
+          "url": "https://t.co/EcaKkckRg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080696968964440517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "持续散发小猫能量…… https://t.co/EcaKkckRg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080696873732784128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAeyFwbwAAVVCJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080696873405583360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAeyEibEAAv4Lw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080696205605285888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAeLMybMAAZWFi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080696873732784128",
+            "3_2080696873405583360",
+            "3_2080696205605285888"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2080696968964440517",
+        "created_at": "2026-07-24T16:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080696968964440517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EcaKkckRg3",
+              "end": 34,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2080696968964440517/photo/1",
+              "media_key": "3_2080696873732784128",
+              "start": 11,
+              "url": "https://t.co/EcaKkckRg3"
+            },
+            {
+              "display_url": "pic.x.com/EcaKkckRg3",
+              "end": 34,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2080696968964440517/photo/1",
+              "media_key": "3_2080696873405583360",
+              "start": 11,
+              "url": "https://t.co/EcaKkckRg3"
+            },
+            {
+              "display_url": "pic.x.com/EcaKkckRg3",
+              "end": 34,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2080696968964440517/photo/1",
+              "media_key": "3_2080696205605285888",
+              "start": 11,
+              "url": "https://t.co/EcaKkckRg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080696968964440517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "持续散发小猫能量…… https://t.co/EcaKkckRg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 68,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075510681483497473",
+        "3_2075510681684881408"
+      ],
+      "media_source_tweet_id": [
+        "2075510696817926157",
+        "2075510696817926157"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2079090886185722076",
+    "created_at": "2026-07-20T06:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079090886185722076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045895393012322304",
+          "start": 3,
+          "username": "zameru619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X54bRyyr5V",
+          "end": 121,
+          "expanded_url": "https://x.com/zameru619/status/2075510696817926157/photo/1",
+          "media_key": "3_2075510681483497473",
+          "start": 98,
+          "url": "https://t.co/X54bRyyr5V"
+        },
+        {
+          "display_url": "pic.x.com/X54bRyyr5V",
+          "end": 121,
+          "expanded_url": "https://x.com/zameru619/status/2075510696817926157/photo/1",
+          "media_key": "3_2075510681684881408",
+          "start": 98,
+          "url": "https://t.co/X54bRyyr5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079090886185722076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075510696817926157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zameru619: 這裡是小蒼/篠蒼\n09 hk 泛 雙相 自傷\n希望可以認識很多朋友\n互關摩多摩多 \n被棄養中 希望能被資助 我還不想餓死\n門檻520隨機掉落小照片///\n歡迎互轉！ https://t.co/X54bRyyr5V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075510681483497473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2x9-FaUAEz8fA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075510681684881408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2x9-1bMAAXHyB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075510681483497473",
+            "3_2075510681684881408"
+          ]
+        },
+        "author_id": "2045895393012322304",
+        "conversation_id": "2075510696817926157",
+        "created_at": "2026-07-10T09:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075510696817926157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X54bRyyr5V",
+              "end": 106,
+              "expanded_url": "https://x.com/zameru619/status/2075510696817926157/photo/1",
+              "media_key": "3_2075510681483497473",
+              "start": 83,
+              "url": "https://t.co/X54bRyyr5V"
+            },
+            {
+              "display_url": "pic.x.com/X54bRyyr5V",
+              "end": 106,
+              "expanded_url": "https://x.com/zameru619/status/2075510696817926157/photo/1",
+              "media_key": "3_2075510681684881408",
+              "start": 83,
+              "url": "https://t.co/X54bRyyr5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075510696817926157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7986,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是小蒼/篠蒼\n09 hk 泛 雙相 自傷\n希望可以認識很多朋友\n互關摩多摩多 \n被棄養中 希望能被資助 我還不想餓死\n門檻520隨機掉落小照片///\n歡迎互轉！ https://t.co/X54bRyyr5V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075510681483497473",
+            "3_2075510681684881408"
+          ],
+          "media_source_tweet_id": [
+            "2075510696817926157",
+            "2075510696817926157"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2079090886185722076",
+        "created_at": "2026-07-20T06:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079090886185722076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045895393012322304",
+              "start": 3,
+              "username": "zameru619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X54bRyyr5V",
+              "end": 121,
+              "expanded_url": "https://x.com/zameru619/status/2075510696817926157/photo/1",
+              "media_key": "3_2075510681483497473",
+              "start": 98,
+              "url": "https://t.co/X54bRyyr5V"
+            },
+            {
+              "display_url": "pic.x.com/X54bRyyr5V",
+              "end": 121,
+              "expanded_url": "https://x.com/zameru619/status/2075510696817926157/photo/1",
+              "media_key": "3_2075510681684881408",
+              "start": 98,
+              "url": "https://t.co/X54bRyyr5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079090886185722076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075510696817926157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zameru619: 這裡是小蒼/篠蒼\n09 hk 泛 雙相 自傷\n希望可以認識很多朋友\n互關摩多摩多 \n被棄養中 希望能被資助 我還不想餓死\n門檻520隨機掉落小照片///\n歡迎互轉！ https://t.co/X54bRyyr5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 恋人@_XnanX_418 餐券逼欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2070610708501529064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 72,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T16:01:26.000Z",
+        "description": "媽咪 @1nfinityHeaven",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "1nfinityHeaven"
+              }
+            ]
+          }
+        },
+        "id": "2045895393012322304",
+        "name": "QWERTYUIOP",
+        "pinned_tweet_id": "2075510696817926157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057539570326188032/AGea5hRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 154,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "zameru619",
+        "verified": false
+      }
+    ]
+  }
+}

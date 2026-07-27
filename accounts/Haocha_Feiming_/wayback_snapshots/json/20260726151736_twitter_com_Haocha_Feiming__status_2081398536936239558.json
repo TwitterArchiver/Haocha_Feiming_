@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081398494435356672",
+        "3_2081398494502502400"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2081398536936239558",
+    "created_at": "2026-07-26T15:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081398536936239558"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 45,
+          "start": 31,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 69,
+          "start": 57,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "地雷系"
+        },
+        {
+          "end": 87,
+          "start": 75,
+          "tag": "地雷系さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MlCsQmYsy9",
+          "end": 111,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2081398536936239558/photo/1",
+          "media_key": "3_2081398494435356672",
+          "start": 88,
+          "url": "https://t.co/MlCsQmYsy9"
+        },
+        {
+          "display_url": "pic.x.com/MlCsQmYsy9",
+          "end": 111,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2081398536936239558/photo/1",
+          "media_key": "3_2081398494502502400",
+          "start": 88,
+          "url": "https://t.co/MlCsQmYsy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081398536936239558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草比半小时后依旧坚挺的妆容 博瑞美我爱上你了\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/MlCsQmYsy9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_2081398494435356672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKc5yjaMAA1ax7.jpg",
+        "width": 952
+      },
+      {
+        "height": 1539,
+        "media_key": "3_2081398494502502400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKc5yzawAAJJ7K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081398494435356672",
+            "3_2081398494502502400"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2081398536936239558",
+        "created_at": "2026-07-26T15:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081398536936239558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 45,
+              "start": 31,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "地雷系"
+            },
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlCsQmYsy9",
+              "end": 111,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2081398536936239558/photo/1",
+              "media_key": "3_2081398494435356672",
+              "start": 88,
+              "url": "https://t.co/MlCsQmYsy9"
+            },
+            {
+              "display_url": "pic.x.com/MlCsQmYsy9",
+              "end": 111,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2081398536936239558/photo/1",
+              "media_key": "3_2081398494502502400",
+              "start": 88,
+              "url": "https://t.co/MlCsQmYsy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081398536936239558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草比半小时后依旧坚挺的妆容 博瑞美我爱上你了\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/MlCsQmYsy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 81,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}
