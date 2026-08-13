@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085098222117347328",
+        "3_2085098222113218560",
+        "3_2085098222113181696",
+        "3_2085098222121537536"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2085098235249734087",
+    "created_at": "2026-08-05T20:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085098235249734087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRIyalUoTW",
+          "end": 39,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+          "media_key": "3_2085098222117347328",
+          "start": 16,
+          "url": "https://t.co/NRIyalUoTW"
+        },
+        {
+          "display_url": "pic.x.com/NRIyalUoTW",
+          "end": 39,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+          "media_key": "3_2085098222113218560",
+          "start": 16,
+          "url": "https://t.co/NRIyalUoTW"
+        },
+        {
+          "display_url": "pic.x.com/NRIyalUoTW",
+          "end": 39,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+          "media_key": "3_2085098222113181696",
+          "start": 16,
+          "url": "https://t.co/NRIyalUoTW"
+        },
+        {
+          "display_url": "pic.x.com/NRIyalUoTW",
+          "end": 39,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+          "media_key": "3_2085098222121537536",
+          "start": 16,
+          "url": "https://t.co/NRIyalUoTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085098235249734087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三点快四点才回家 好热哦好热哦 https://t.co/NRIyalUoTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085098222117347328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_BySMaYAADSz7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1602,
+        "media_key": "3_2085098222113218560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_BySLbYAAgtY6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085098222113181696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_BySLa0AA2Ef6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2085098222121537536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_BySNaUAA2AvH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085098222117347328",
+            "3_2085098222113218560",
+            "3_2085098222113181696",
+            "3_2085098222121537536"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2085098235249734087",
+        "created_at": "2026-08-05T20:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085098235249734087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRIyalUoTW",
+              "end": 39,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+              "media_key": "3_2085098222117347328",
+              "start": 16,
+              "url": "https://t.co/NRIyalUoTW"
+            },
+            {
+              "display_url": "pic.x.com/NRIyalUoTW",
+              "end": 39,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+              "media_key": "3_2085098222113218560",
+              "start": 16,
+              "url": "https://t.co/NRIyalUoTW"
+            },
+            {
+              "display_url": "pic.x.com/NRIyalUoTW",
+              "end": 39,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+              "media_key": "3_2085098222113181696",
+              "start": 16,
+              "url": "https://t.co/NRIyalUoTW"
+            },
+            {
+              "display_url": "pic.x.com/NRIyalUoTW",
+              "end": 39,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2085098235249734087/photo/1",
+              "media_key": "3_2085098222121537536",
+              "start": 16,
+              "url": "https://t.co/NRIyalUoTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085098235249734087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三点快四点才回家 好热哦好热哦 https://t.co/NRIyalUoTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 106,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

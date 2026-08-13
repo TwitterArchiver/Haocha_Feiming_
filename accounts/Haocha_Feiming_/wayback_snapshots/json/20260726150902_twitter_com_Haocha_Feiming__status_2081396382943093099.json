@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081396313342816256",
+        "3_2081396313321783296"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2081396382943093099",
+    "created_at": "2026-07-26T15:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081396382943093099"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 48,
+          "start": 34,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 72,
+          "start": 60,
+          "tag": "病み垢女子と繫がりたい"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "地雷系"
+        },
+        {
+          "end": 90,
+          "start": 78,
+          "tag": "地雷系さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nOGoTlmIGO",
+          "end": 114,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2081396382943093099/video/1",
+          "media_key": "13_2081396313342816256",
+          "start": 91,
+          "url": "https://t.co/nOGoTlmIGO"
+        },
+        {
+          "display_url": "pic.x.com/nOGoTlmIGO",
+          "end": 114,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2081396382943093099/video/1",
+          "media_key": "3_2081396313321783296",
+          "start": 91,
+          "url": "https://t.co/nOGoTlmIGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081396382943093099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "试了一下上挑眼妆 不过画下垂眼线习惯了有点不明显😔\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/nOGoTlmIGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3865,
+        "height": 1280,
+        "media_key": "13_2081396313342816256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081396313342816256/img/QTDSI-T_W3VFriTh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081396313342816256/vid/avc1/320x568/dySv8556dBzfD0TY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081396313342816256/vid/avc1/480x852/iepT0CpM1tLD9VX4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081396313342816256/vid/avc1/720x1280/2WWnvNJr8IMyoB_r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081396313342816256/pl/AjBmSSs4xCyf4tDr.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081396313321783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKa61RaQAAlmqZ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081396313342816256",
+            "3_2081396313321783296"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2081396382943093099",
+        "created_at": "2026-07-26T15:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081396382943093099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 48,
+              "start": 34,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 72,
+              "start": 60,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "地雷系"
+            },
+            {
+              "end": 90,
+              "start": 78,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOGoTlmIGO",
+              "end": 114,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2081396382943093099/video/1",
+              "media_key": "13_2081396313342816256",
+              "start": 91,
+              "url": "https://t.co/nOGoTlmIGO"
+            },
+            {
+              "display_url": "pic.x.com/nOGoTlmIGO",
+              "end": 114,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2081396382943093099/video/1",
+              "media_key": "3_2081396313321783296",
+              "start": 91,
+              "url": "https://t.co/nOGoTlmIGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081396382943093099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试了一下上挑眼妆 不过画下垂眼线习惯了有点不明显😔\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/nOGoTlmIGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 81,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

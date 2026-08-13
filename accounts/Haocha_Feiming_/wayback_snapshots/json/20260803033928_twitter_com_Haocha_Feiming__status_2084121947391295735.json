@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084121935101988864",
+        "3_2084121935060111360"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2084121947391295735",
+    "created_at": "2026-08-03T03:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084121947391295735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tnoNNUtiyl",
+          "end": 44,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2084121947391295735/photo/1",
+          "media_key": "3_2084121935101988864",
+          "start": 21,
+          "url": "https://t.co/tnoNNUtiyl"
+        },
+        {
+          "display_url": "pic.x.com/tnoNNUtiyl",
+          "end": 44,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2084121947391295735/photo/1",
+          "media_key": "3_2084121935060111360",
+          "start": 21,
+          "url": "https://t.co/tnoNNUtiyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084121947391295735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和老公成为海豹一家 我的手机壳也是海豹🦭 https://t.co/tnoNNUtiyl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084121935101988864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxJ25pakAAsJt6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084121935060111360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxJ25fbkAAt8a7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084121935101988864",
+            "3_2084121935060111360"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2084121947391295735",
+        "created_at": "2026-08-03T03:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084121947391295735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnoNNUtiyl",
+              "end": 44,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2084121947391295735/photo/1",
+              "media_key": "3_2084121935101988864",
+              "start": 21,
+              "url": "https://t.co/tnoNNUtiyl"
+            },
+            {
+              "display_url": "pic.x.com/tnoNNUtiyl",
+              "end": 44,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2084121947391295735/photo/1",
+              "media_key": "3_2084121935060111360",
+              "start": 21,
+              "url": "https://t.co/tnoNNUtiyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084121947391295735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和老公成为海豹一家 我的手机壳也是海豹🦭 https://t.co/tnoNNUtiyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 102,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

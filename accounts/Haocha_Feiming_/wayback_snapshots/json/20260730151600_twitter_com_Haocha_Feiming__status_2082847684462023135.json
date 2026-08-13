@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2082847684462023135",
+    "created_at": "2026-07-30T15:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082847684462023135"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "线下约会"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "白丝"
+        },
+        {
+          "end": 118,
+          "start": 116,
+          "tag": "m"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048325684641370112",
+          "start": 3,
+          "username": "xiaojuan98629"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/uqz",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/uqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082847684462023135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053311306963587094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @xiaojuan98629: 07身体原因休学女高，有精神问题，接纯绿半绿线下，入门是为了治病吃和生活，爱我请给我入='人'=\n私信只回口令相关和赞赏码，欢迎女宝宝们来找我互关互fo #门槛妹 #爸爸活 #线下约会 #白丝 #m #包养 https://t.co/uqz…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053311273425940481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7TuWnbsAE_HRR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2053311273753100288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7TuX1bwAA-7m-.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1656,
+        "media_key": "3_2053311273430142976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7TuWob0AAt_9Q.jpg",
+        "width": 1080
+      },
+      {
+        "height": 994,
+        "media_key": "3_2053311273438453760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7TuWqaoAANfEs.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2082847684462023135",
+        "created_at": "2026-07-30T15:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082847684462023135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "线下约会"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "白丝"
+            },
+            {
+              "end": 118,
+              "start": 116,
+              "tag": "m"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "包养"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048325684641370112",
+              "start": 3,
+              "username": "xiaojuan98629"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/uqz",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/uqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082847684462023135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053311306963587094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @xiaojuan98629: 07身体原因休学女高，有精神问题，接纯绿半绿线下，入门是为了治病吃和生活，爱我请给我入='人'=\n私信只回口令相关和赞赏码，欢迎女宝宝们来找我互关互fo #门槛妹 #爸爸活 #线下约会 #白丝 #m #包养 https://t.co/uqz…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053311273425940481",
+            "3_2053311273753100288",
+            "3_2053311273430142976",
+            "3_2053311273438453760"
+          ]
+        },
+        "author_id": "2048325684641370112",
+        "conversation_id": "2053311306963587094",
+        "created_at": "2026-05-10T03:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053311306963587094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "线下约会"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "白丝"
+            },
+            {
+              "end": 99,
+              "start": 97,
+              "tag": "m"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqz3h1cz4p",
+              "end": 127,
+              "expanded_url": "https://x.com/xiaojuan98629/status/2053311306963587094/photo/1",
+              "media_key": "3_2053311273425940481",
+              "start": 104,
+              "url": "https://t.co/uqz3h1cz4p"
+            },
+            {
+              "display_url": "pic.x.com/uqz3h1cz4p",
+              "end": 127,
+              "expanded_url": "https://x.com/xiaojuan98629/status/2053311306963587094/photo/1",
+              "media_key": "3_2053311273753100288",
+              "start": 104,
+              "url": "https://t.co/uqz3h1cz4p"
+            },
+            {
+              "display_url": "pic.x.com/uqz3h1cz4p",
+              "end": 127,
+              "expanded_url": "https://x.com/xiaojuan98629/status/2053311306963587094/photo/1",
+              "media_key": "3_2053311273430142976",
+              "start": 104,
+              "url": "https://t.co/uqz3h1cz4p"
+            },
+            {
+              "display_url": "pic.x.com/uqz3h1cz4p",
+              "end": 127,
+              "expanded_url": "https://x.com/xiaojuan98629/status/2053311306963587094/photo/1",
+              "media_key": "3_2053311273438453760",
+              "start": 104,
+              "url": "https://t.co/uqz3h1cz4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053311306963587094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 52547,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "following",
+        "text": "07身体原因休学女高，有精神问题，接纯绿半绿线下，入门是为了治病吃和生活，爱我请给我入='人'=\n私信只回口令相关和赞赏码，欢迎女宝宝们来找我互关互fo #门槛妹 #爸爸活 #线下约会 #白丝 #m #包养 https://t.co/uqz3h1cz4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 99,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T08:59:24.000Z",
+        "description": "@ChunBu98629 ←前世6000粉大号被仇人盗号\n🚪77/388/520/1314/2355/5200不退🚪 私信只回复口令 欢迎女宝宝们来找我互转互fo 正在积极寻找前世互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "ChunBu98629"
+              }
+            ]
+          }
+        },
+        "id": "2048325684641370112",
+        "location": "🧭15",
+        "name": "绪許（重生版",
+        "pinned_tweet_id": "2053311306963587094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060183124047503360/ye9t3At3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 34,
+          "like_count": 161,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "xiaojuan98629",
+        "verified": false
+      }
+    ]
+  }
+}

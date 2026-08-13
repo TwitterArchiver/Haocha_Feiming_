@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2081776277128884735",
+    "created_at": "2026-07-27T16:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081776277128884735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612280433064185859",
+          "start": 3,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081776277128884735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081508605111763013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c2F4F4F: 200fo福利来了  虽然还没到但是我还是先抽吧！  评论 +转+赞+fo参与呀\n求转   感觉我还是很宠粉的哦\n奖品1：20软妹币×1\n         2：10软妹币×2\n         3：粉色仙女套/警示牌×1\n          八月二号晚…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2081508596920266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMBCmRasAAfkNL.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2081508596932816896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMBCmUaMAAHA2d.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2081776277128884735",
+        "created_at": "2026-07-27T16:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081776277128884735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612280433064185859",
+              "start": 3,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081776277128884735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081508605111763013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c2F4F4F: 200fo福利来了  虽然还没到但是我还是先抽吧！  评论 +转+赞+fo参与呀\n求转   感觉我还是很宠粉的哦\n奖品1：20软妹币×1\n         2：10软妹币×2\n         3：粉色仙女套/警示牌×1\n          八月二号晚…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081508596920266752",
+            "3_2081508596932816896"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2081508605111763013",
+        "created_at": "2026-07-26T22:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081508605111763013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBETdRNYD6",
+              "end": 157,
+              "expanded_url": "https://x.com/c2F4F4F/status/2081508605111763013/photo/1",
+              "media_key": "3_2081508596920266752",
+              "start": 134,
+              "url": "https://t.co/uBETdRNYD6"
+            },
+            {
+              "display_url": "pic.x.com/uBETdRNYD6",
+              "end": 157,
+              "expanded_url": "https://x.com/c2F4F4F/status/2081508605111763013/photo/1",
+              "media_key": "3_2081508596932816896",
+              "start": 134,
+              "url": "https://t.co/uBETdRNYD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081508605111763013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2793,
+          "like_count": 68,
+          "quote_count": 4,
+          "reply_count": 46,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "200fo福利来了  虽然还没到但是我还是先抽吧！  评论 +转+赞+fo参与呀\n求转   感觉我还是很宠粉的哦\n奖品1：20软妹币×1\n         2：10软妹币×2\n         3：粉色仙女套/警示牌×1\n          八月二号晚上12点准时开 https://t.co/uBETdRNYD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 84,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |望厨",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "pinned_tweet_id": "2081508605111763013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 542,
+          "like_count": 10025,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

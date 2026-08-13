@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084356802133753856"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2084356811428385242",
+    "created_at": "2026-08-03T19:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T20:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084356811428385242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/lannn74470",
+          "end": 23,
+          "expanded_url": "https://ngl.link/lannn74470",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2083081077602820096/qFPHLbum?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083081077602820096/qFPHLbum?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "@lannn: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/lannn74470",
+          "url": "https://t.co/9pibpXF1Hl"
+        },
+        {
+          "display_url": "pic.x.com/T2KYI3R32E",
+          "end": 55,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2084356811428385242/photo/1",
+          "media_key": "3_2084356802133753856",
+          "start": 32,
+          "url": "https://t.co/T2KYI3R32E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084356811428385242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9pibpXF1Hl 来点真人行不行 https://t.co/T2KYI3R32E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_2084356802133753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0fd9haAAAkSxs.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084356802133753856"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2084356811428385242",
+        "created_at": "2026-08-03T19:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084356811428385242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/lannn74470",
+              "end": 23,
+              "expanded_url": "https://ngl.link/lannn74470",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2083081077602820096/qFPHLbum?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083081077602820096/qFPHLbum?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@lannn: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/lannn74470",
+              "url": "https://t.co/9pibpXF1Hl"
+            },
+            {
+              "display_url": "pic.x.com/T2KYI3R32E",
+              "end": 55,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2084356811428385242/photo/1",
+              "media_key": "3_2084356802133753856",
+              "start": 32,
+              "url": "https://t.co/T2KYI3R32E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084356811428385242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9pibpXF1Hl 来点真人行不行 https://t.co/T2KYI3R32E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 110,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 431
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

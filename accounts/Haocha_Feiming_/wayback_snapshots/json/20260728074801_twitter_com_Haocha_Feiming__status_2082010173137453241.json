@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2082010173137453241",
+    "created_at": "2026-07-28T07:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082010173137453241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2080523665960251392",
+          "start": 3,
+          "username": "ninegami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082010173137453241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081981735794008199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninegami: 小梦的自我介绍⊙'~'⊙\n07 168/46kg 家里蹲中没有生活费试着发推求哥哥姐姐打赏呀，脾气很好的不过门也可以和我在推上互动呀⋆₃⋆\n🚪52（只接受私信口令和图4赞赏码）纯绿随意聊天，520可以解锁纯绿线下，会喜欢主动聊天\n欢迎女宝互fo互转♪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081981683243560960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSvT2KaMAAeyn2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081981683210014720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSvT2CaUAAzI1G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081981683189063680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSvT19aoAA2sCJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2081981683197530112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSvT1_b0AAw6kS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2082010173137453241",
+        "created_at": "2026-07-28T07:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082010173137453241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2080523665960251392",
+              "start": 3,
+              "username": "ninegami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082010173137453241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081981735794008199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninegami: 小梦的自我介绍⊙'~'⊙\n07 168/46kg 家里蹲中没有生活费试着发推求哥哥姐姐打赏呀，脾气很好的不过门也可以和我在推上互动呀⋆₃⋆\n🚪52（只接受私信口令和图4赞赏码）纯绿随意聊天，520可以解锁纯绿线下，会喜欢主动聊天\n欢迎女宝互fo互转♪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081981683243560960",
+            "3_2081981683210014720",
+            "3_2081981683189063680",
+            "3_2081981683197530112"
+          ]
+        },
+        "author_id": "2080523665960251392",
+        "conversation_id": "2081981735794008199",
+        "created_at": "2026-07-28T05:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081981735794008199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "门槛"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "纯绿"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "门哥"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "门姐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJ8NyXwTlN",
+              "end": 182,
+              "expanded_url": "https://x.com/ninegami/status/2081981735794008199/photo/1",
+              "media_key": "3_2081981683243560960",
+              "start": 159,
+              "url": "https://t.co/sJ8NyXwTlN"
+            },
+            {
+              "display_url": "pic.x.com/sJ8NyXwTlN",
+              "end": 182,
+              "expanded_url": "https://x.com/ninegami/status/2081981735794008199/photo/1",
+              "media_key": "3_2081981683210014720",
+              "start": 159,
+              "url": "https://t.co/sJ8NyXwTlN"
+            },
+            {
+              "display_url": "pic.x.com/sJ8NyXwTlN",
+              "end": 182,
+              "expanded_url": "https://x.com/ninegami/status/2081981735794008199/photo/1",
+              "media_key": "3_2081981683189063680",
+              "start": 159,
+              "url": "https://t.co/sJ8NyXwTlN"
+            },
+            {
+              "display_url": "pic.x.com/sJ8NyXwTlN",
+              "end": 182,
+              "expanded_url": "https://x.com/ninegami/status/2081981735794008199/photo/1",
+              "media_key": "3_2081981683197530112",
+              "start": 159,
+              "url": "https://t.co/sJ8NyXwTlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081981735794008199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小梦的自我介绍⊙'~'⊙\n07 168/46kg 家里蹲中没有生活费试着发推求哥哥姐姐打赏呀，脾气很好的不过门也可以和我在推上互动呀⋆₃⋆\n🚪52（只接受私信口令和图4赞赏码）纯绿随意聊天，520可以解锁纯绿线下，会喜欢主动聊天\n欢迎女宝互fo互转♪(´ε｀ )快来和我玩吧\n#门槛 #门槛妹 #纯绿 #门哥 #门姐 https://t.co/sJ8NyXwTlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "ずっと2.0",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 86,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T05:22:43.000Z",
+        "description": "🚪52 /520",
+        "id": "2080523665960251392",
+        "name": "梦",
+        "pinned_tweet_id": "2081981735794008199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081770104325603328/AM6b2-f0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "ninegami",
+        "verified": false
+      }
+    ]
+  }
+}

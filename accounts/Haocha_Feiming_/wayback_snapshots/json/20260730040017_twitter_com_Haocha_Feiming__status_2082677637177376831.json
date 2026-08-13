@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2082677637177376831",
+    "created_at": "2026-07-30T04:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082677637177376831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1058185148",
+          "start": 3,
+          "username": "xiaotunovo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082677637177376831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082484593471766531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaotunovo0: 本人由于幽灵ban😿\n秽土转生小小小号\n寻回互fo抽奖\n一等奖18.88r🥸🥸（1位\n二等奖8.88r🤓🤓（2位\n三等奖6.66r🤪🤪（4位\n❤️参与抽奖条件：关注点赞转帖留言谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2082677637177376831",
+        "created_at": "2026-07-30T04:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082677637177376831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1058185148",
+              "start": 3,
+              "username": "xiaotunovo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082677637177376831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082484593471766531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaotunovo0: 本人由于幽灵ban😿\n秽土转生小小小号\n寻回互fo抽奖\n一等奖18.88r🥸🥸（1位\n二等奖8.88r🤓🤓（2位\n三等奖6.66r🤪🤪（4位\n❤️参与抽奖条件：关注点赞转帖留言谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2082484593471766531",
+        "created_at": "2026-07-29T15:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082484593471766531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082484593471766531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "本人由于幽灵ban😿\n秽土转生小小小号\n寻回互fo抽奖\n一等奖18.88r🥸🥸（1位\n二等奖8.88r🤓🤓（2位\n三等奖6.66r🤪🤪（4位\n❤️参与抽奖条件：关注点赞转帖留言谢谢喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 97,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@MISTERK0937\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "MISTERK0937"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 23,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      }
+    ]
+  }
+}

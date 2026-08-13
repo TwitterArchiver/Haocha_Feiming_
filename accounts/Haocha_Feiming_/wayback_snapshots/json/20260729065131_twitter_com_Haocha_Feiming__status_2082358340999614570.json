@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082358332040609792",
+        "3_2082358332048965632",
+        "3_2082358332040663040",
+        "3_2082358332053184512"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2082358340999614570",
+    "created_at": "2026-07-29T06:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082358340999614570"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 22,
+          "start": 8,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "病み垢女子と繫がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ha2qBMCVNh",
+          "end": 70,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+          "media_key": "3_2082358332040609792",
+          "start": 47,
+          "url": "https://t.co/Ha2qBMCVNh"
+        },
+        {
+          "display_url": "pic.x.com/Ha2qBMCVNh",
+          "end": 70,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+          "media_key": "3_2082358332048965632",
+          "start": 47,
+          "url": "https://t.co/Ha2qBMCVNh"
+        },
+        {
+          "display_url": "pic.x.com/Ha2qBMCVNh",
+          "end": 70,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+          "media_key": "3_2082358332040663040",
+          "start": 47,
+          "url": "https://t.co/Ha2qBMCVNh"
+        },
+        {
+          "display_url": "pic.x.com/Ha2qBMCVNh",
+          "end": 70,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+          "media_key": "3_2082358332053184512",
+          "start": 47,
+          "url": "https://t.co/Ha2qBMCVNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082358340999614570",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/Ha2qBMCVNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082358332040609792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYF3sRbAAA6o1-.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082358332048965632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYF3sTagAAGlK3.jpg",
+        "width": 1340
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082358332040663040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYF3sRb0AAN5BX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082358332053184512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYF3sUa4AAFy8q.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082358332040609792",
+            "3_2082358332048965632",
+            "3_2082358332040663040",
+            "3_2082358332053184512"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2082358340999614570",
+        "created_at": "2026-07-29T06:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082358340999614570"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "病み垢女子と繫がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ha2qBMCVNh",
+              "end": 70,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+              "media_key": "3_2082358332040609792",
+              "start": 47,
+              "url": "https://t.co/Ha2qBMCVNh"
+            },
+            {
+              "display_url": "pic.x.com/Ha2qBMCVNh",
+              "end": 70,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+              "media_key": "3_2082358332048965632",
+              "start": 47,
+              "url": "https://t.co/Ha2qBMCVNh"
+            },
+            {
+              "display_url": "pic.x.com/Ha2qBMCVNh",
+              "end": 70,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+              "media_key": "3_2082358332040663040",
+              "start": 47,
+              "url": "https://t.co/Ha2qBMCVNh"
+            },
+            {
+              "display_url": "pic.x.com/Ha2qBMCVNh",
+              "end": 70,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082358340999614570/photo/1",
+              "media_key": "3_2082358332053184512",
+              "start": 47,
+              "url": "https://t.co/Ha2qBMCVNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082358340999614570",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/Ha2qBMCVNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 89,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

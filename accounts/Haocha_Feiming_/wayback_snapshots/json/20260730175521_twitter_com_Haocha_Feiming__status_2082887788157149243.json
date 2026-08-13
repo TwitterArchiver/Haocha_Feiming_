@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082887778749329409"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2082887788157149243",
+    "created_at": "2026-07-30T17:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082887788157149243"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 58,
+          "start": 44,
+          "tag": "自撮り界隈さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4blvDnmcGa",
+          "end": 82,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2082887788157149243/photo/1",
+          "media_key": "3_2082887778749329409",
+          "start": 59,
+          "url": "https://t.co/4blvDnmcGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082887788157149243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素颜 我这几天好懒不想化妆天天熬夜\n罗布乐思这个小鸡鸡游戏搞得我很憔悴\n#自撮り界隈\n #自撮り界隈さんと繋がりたい https://t.co/4blvDnmcGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082887778749329409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfnZi9bMAEhDCy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082887778749329409"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2082887788157149243",
+        "created_at": "2026-07-30T17:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082887788157149243"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 58,
+              "start": 44,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4blvDnmcGa",
+              "end": 82,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082887788157149243/photo/1",
+              "media_key": "3_2082887778749329409",
+              "start": 59,
+              "url": "https://t.co/4blvDnmcGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082887788157149243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素颜 我这几天好懒不想化妆天天熬夜\n罗布乐思这个小鸡鸡游戏搞得我很憔悴\n#自撮り界隈\n #自撮り界隈さんと繋がりたい https://t.co/4blvDnmcGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 102,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

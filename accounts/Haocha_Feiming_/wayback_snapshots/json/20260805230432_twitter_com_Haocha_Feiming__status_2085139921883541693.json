@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2085139921883541693",
+    "created_at": "2026-08-05T23:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T00:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085139921883541693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loooooo_na/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/loooooo_na/status/2085105943197696161",
+          "start": 6,
+          "url": "https://t.co/wOVWWADnP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085139921883541693",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085105943197696161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要笑死了 https://t.co/wOVWWADnP2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2085139921883541693",
+        "created_at": "2026-08-05T23:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T00:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085139921883541693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loooooo_na/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/loooooo_na/status/2085105943197696161",
+              "start": 6,
+              "url": "https://t.co/wOVWWADnP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085139921883541693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085105943197696161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要笑死了 https://t.co/wOVWWADnP2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712006262437908480",
+        "conversation_id": "2085008551508894078",
+        "created_at": "2026-08-05T20:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085105943197696161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2701806907",
+              "start": 0,
+              "username": "duvetishere"
+            },
+            {
+              "end": 25,
+              "id": "1945407244235120640",
+              "start": 13,
+              "username": "wxy09291489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085105943197696161",
+        "in_reply_to_user_id": "2701806907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085066016800096429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duvetishere @wxy09291489 金南俊长得像海里捞出来的死鱼，李炤熙长得像被削烂了的苹果，西村力像那个被转了三十手已经电子包浆了的杀人犯通缉照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 106,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T07:24:48.000Z",
+        "description": "风湿/骶髂关节紊乱/颞下颌关节紊乱/哮喘/近视/胃炎/偏头痛/贫血/耳朵疼/想拉屎/骨折/耳背/胃食管反流/咯咯咯咯咯",
+        "id": "1712006262437908480",
+        "name": "tt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029150122333093888/3Sg2ww1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 98,
+          "like_count": 25788,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2929
+        },
+        "url": "",
+        "username": "loooooo_na",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2083645689276612909",
+    "created_at": "2026-08-01T20:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T21:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083645689276612909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964zhajipai/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/8964zhajipai/status/2083286108730007565",
+          "start": 2,
+          "url": "https://t.co/5bevHFrug3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083645689276612909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083286108730007565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/5bevHFrug3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2083645689276612909",
+        "created_at": "2026-08-01T20:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083645689276612909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964zhajipai/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/8964zhajipai/status/2083286108730007565",
+              "start": 2,
+              "url": "https://t.co/5bevHFrug3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083645689276612909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083286108730007565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/5bevHFrug3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "2083286108730007565",
+        "created_at": "2026-07-31T20:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083286108730007565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083286108730007565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10670,
+          "like_count": 163,
+          "quote_count": 3,
+          "reply_count": 66,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的毒虫老公，每天带你玩大麻，可卡因，海洛因，k粉，冰毒，芬太尼，普瑞巴林，右美沙芬，甘草片，美金刚，lsd，蘑菇，气球，罂粟，可待因，安非他命，曲马多，美沙酮，替来他命，依托咪酯。身上分币没有吸毒的钱全是从你这拿的，刚从戒毒所出来就又跟你瘫在出租屋里吸的不知天地为何物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "=小鸠/鸡排                                                             集日记朋友圈碎碎念垃圾桶裸照自残嗑药一体的神秘账号 || 互fo大欢迎=ω=                     我是钱性恋🚪188/288/520/1314",
+        "id": "1702221879434436608",
+        "name": "像素",
+        "pinned_tweet_id": "2074621267400077792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 82,
+          "like_count": 378,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

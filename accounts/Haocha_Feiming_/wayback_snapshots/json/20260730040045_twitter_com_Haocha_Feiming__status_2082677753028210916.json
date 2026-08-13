@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2082677753028210916",
+    "created_at": "2026-07-30T04:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082677753028210916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069342385688182784",
+          "start": 3,
+          "username": "lzlznlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082677753028210916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082381883154063866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @lzlznlz: 异地恋赶紧滚出地球吧谁发明的异地……我现在啥都不想学不想看只想坐在我老公的几把上和老公亲嘴。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2082677753028210916",
+        "created_at": "2026-07-30T04:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082677753028210916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069342385688182784",
+              "start": 3,
+              "username": "lzlznlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082677753028210916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082381883154063866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @lzlznlz: 异地恋赶紧滚出地球吧谁发明的异地……我现在啥都不想学不想看只想坐在我老公的几把上和老公亲嘴。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069342385688182784",
+        "conversation_id": "2082381883154063866",
+        "created_at": "2026-07-29T08:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082381883154063866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082381883154063866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 65815,
+          "like_count": 514,
+          "quote_count": 6,
+          "reply_count": 77,
+          "retweet_count": 18
+        },
+        "reply_settings": "following",
+        "text": "异地恋赶紧滚出地球吧谁发明的异地……我现在啥都不想学不想看只想坐在我老公的几把上和老公亲嘴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 97,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T08:53:06.000Z",
+        "description": "小孩子不懂事随便写着玩的。\n有老公了不私聊。@GissingSim43048",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "GissingSim43048"
+              }
+            ]
+          }
+        },
+        "id": "2069342385688182784",
+        "location": "韩国",
+        "name": "Luvke",
+        "pinned_tweet_id": "2082490860101661134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082334983386279936/W4fuNxKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 8,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "lzlznlz",
+        "verified": false
+      }
+    ]
+  }
+}

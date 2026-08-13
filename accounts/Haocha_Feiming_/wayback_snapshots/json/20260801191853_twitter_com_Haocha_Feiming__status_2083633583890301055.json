@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083633576214663168",
+        "3_2083633576210477056",
+        "3_2083633576214659072",
+        "3_2083633576197935104"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083633583890301055",
+    "created_at": "2026-08-01T19:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083633583890301055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9MJzYhnl3V",
+          "end": 35,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+          "media_key": "3_2083633576214663168",
+          "start": 12,
+          "url": "https://t.co/9MJzYhnl3V"
+        },
+        {
+          "display_url": "pic.x.com/9MJzYhnl3V",
+          "end": 35,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+          "media_key": "3_2083633576210477056",
+          "start": 12,
+          "url": "https://t.co/9MJzYhnl3V"
+        },
+        {
+          "display_url": "pic.x.com/9MJzYhnl3V",
+          "end": 35,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+          "media_key": "3_2083633576214659072",
+          "start": 12,
+          "url": "https://t.co/9MJzYhnl3V"
+        },
+        {
+          "display_url": "pic.x.com/9MJzYhnl3V",
+          "end": 35,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+          "media_key": "3_2083633576197935104",
+          "start": 12,
+          "url": "https://t.co/9MJzYhnl3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083633583890301055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天干掉俩一次性烟灰缸 https://t.co/9MJzYhnl3V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083633576214663168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqNsrBaEAAptgx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083633576210477056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqNsrAaMAADPeH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083633576214659072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqNsrBaAAABPiR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083633576197935104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqNsq9a0AA6fmU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083633576214663168",
+            "3_2083633576210477056",
+            "3_2083633576214659072",
+            "3_2083633576197935104"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083633583890301055",
+        "created_at": "2026-08-01T19:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083633583890301055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MJzYhnl3V",
+              "end": 35,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+              "media_key": "3_2083633576214663168",
+              "start": 12,
+              "url": "https://t.co/9MJzYhnl3V"
+            },
+            {
+              "display_url": "pic.x.com/9MJzYhnl3V",
+              "end": 35,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+              "media_key": "3_2083633576210477056",
+              "start": 12,
+              "url": "https://t.co/9MJzYhnl3V"
+            },
+            {
+              "display_url": "pic.x.com/9MJzYhnl3V",
+              "end": 35,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+              "media_key": "3_2083633576214659072",
+              "start": 12,
+              "url": "https://t.co/9MJzYhnl3V"
+            },
+            {
+              "display_url": "pic.x.com/9MJzYhnl3V",
+              "end": 35,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2083633583890301055/photo/1",
+              "media_key": "3_2083633576197935104",
+              "start": 12,
+              "url": "https://t.co/9MJzYhnl3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083633583890301055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天干掉俩一次性烟灰缸 https://t.co/9MJzYhnl3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083082515020136696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 97,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

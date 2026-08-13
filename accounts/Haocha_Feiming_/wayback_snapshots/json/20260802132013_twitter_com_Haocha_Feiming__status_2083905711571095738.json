@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083905687588155392"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2083905711571095738",
+    "created_at": "2026-08-02T13:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083905711571095738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/viTFnmq4Lu",
+          "end": 40,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2083905711571095738/video/1",
+          "media_key": "13_2083905687588155392",
+          "start": 17,
+          "url": "https://t.co/viTFnmq4Lu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083905711571095738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好吃 买过最好吃的一家罐子蛋糕 https://t.co/viTFnmq4Lu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3975,
+        "height": 960,
+        "media_key": "13_2083905687588155392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083905687588155392/img/akkzxO_9HdYTfX93.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083905687588155392/vid/avc1/320x426/VEqXaN68_TClnQiA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083905687588155392/vid/avc1/480x640/E7mEdkkyVvIlmEB0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083905687588155392/vid/avc1/720x960/4yltElR3quaEKqh6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083905687588155392/pl/svMSlfUKNOLR9g9H.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083905687588155392"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2083905711571095738",
+        "created_at": "2026-08-02T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083905711571095738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/viTFnmq4Lu",
+              "end": 40,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2083905711571095738/video/1",
+              "media_key": "13_2083905687588155392",
+              "start": 17,
+              "url": "https://t.co/viTFnmq4Lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083905711571095738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好吃 买过最好吃的一家罐子蛋糕 https://t.co/viTFnmq4Lu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037297943418396672"
+      ],
+      "media_source_tweet_id": [
+        "2037298206090969499"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2085300974156165234",
+    "created_at": "2026-08-06T09:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085300974156165234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 46,
+          "tag": "suicidetwt"
+        },
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "shtwt"
+        },
+        {
+          "end": 73,
+          "start": 65,
+          "tag": "suicide"
+        },
+        {
+          "end": 83,
+          "start": 74,
+          "tag": "selfharm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583845663095283713",
+          "start": 3,
+          "username": "_kkur4_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M6kS0LNVuS",
+          "end": 107,
+          "expanded_url": "https://x.com/GoatRoper911/status/2037298206090969499/video/1",
+          "media_key": "13_2037297943418396672",
+          "start": 84,
+          "url": "https://t.co/M6kS0LNVuS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085300974156165234",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085170381120291089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_kkur4_: (All fake 😋!   )\nY♡ algún dia 💌.\n#suicidetwt #shtwt #suicide #selfharm\nhttps://t.co/M6kS0LNVuS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71083,
+        "height": 1280,
+        "media_key": "13_2037297943418396672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037297943418396672/img/KkHM8uR2z01tjN__.jpg",
+        "public_metrics": {
+          "view_count": 4261168
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037297943418396672/vid/avc1/320x568/8F-usNRAWiSWP-ci.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037297943418396672/vid/avc1/480x852/n29sMWb7E1lOEDut.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037297943418396672/vid/avc1/720x1280/dc_Z6mP7bHFosqBf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037297943418396672/pl/X-AC3KO68q6MfQMT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037297943418396672"
+          ]
+        },
+        "author_id": "949058038480195585",
+        "conversation_id": "2037298206090969499",
+        "created_at": "2026-03-26T22:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037298206090969499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuEcZl5qAL",
+              "end": 301,
+              "expanded_url": "https://x.com/GoatRoper911/status/2037298206090969499/video/1",
+              "media_key": "13_2037297943418396672",
+              "start": 278,
+              "url": "https://t.co/CuEcZl5qAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037298206090969499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Man, what a trip the Japs are:\n\nLeaving shoes behind when committing suicide in Japan is a deeply  ingrained cultural practice symbolizing a transition to another realm,  respect for the location, and preparation for the afterlife. It acts as a  final act of order and personal resolution, often signaling that the  individual is leaving the physical world behind. \n\nKey reasons for this practice include:\nCultural  Etiquette: In Japan, removing shoes before entering homes or sacred  spaces is mandatory to keep them clean. Leaving them at a suicide site,  such as a bridge or forest, is a continuation of this ritualized,  respectful behavior.\nSymbolic Transition: It signifies stepping out  of the material world and leaving one's physical, societal, and  functional \"identity\" behind.\nOrderly Departure: Leaving shoes, often  neatly paired, allows the individual to depart \"cleanly\" without  creating a mess or causing unnecessary disruption to others.\nSignal  of Intent: The shoes act as a clear sign of the person's final resolve,  separating the act from a momentary or accidental incident."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36760,
+          "impression_count": 4773257,
+          "like_count": 87144,
+          "quote_count": 554,
+          "reply_count": 1202,
+          "retweet_count": 5155
+        },
+        "reply_settings": "everyone",
+        "text": "Man, what a trip the Japs are:\n\nLeaving shoes behind when committing suicide in Japan is a deeply  ingrained cultural practice symbolizing a transition to another realm,  respect for the location, and preparation for the afterlife. It acts as a  final act of order and personal https://t.co/CuEcZl5qAL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037297943418396672"
+          ],
+          "media_source_tweet_id": [
+            "2037298206090969499"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2085300974156165234",
+        "created_at": "2026-08-06T09:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085300974156165234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 46,
+              "tag": "suicidetwt"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "shtwt"
+            },
+            {
+              "end": 73,
+              "start": 65,
+              "tag": "suicide"
+            },
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "selfharm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583845663095283713",
+              "start": 3,
+              "username": "_kkur4_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6kS0LNVuS",
+              "end": 107,
+              "expanded_url": "https://x.com/GoatRoper911/status/2037298206090969499/video/1",
+              "media_key": "13_2037297943418396672",
+              "start": 84,
+              "url": "https://t.co/M6kS0LNVuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085300974156165234",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085170381120291089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_kkur4_: (All fake 😋!   )\nY♡ algún dia 💌.\n#suicidetwt #shtwt #suicide #selfharm\nhttps://t.co/M6kS0LNVuS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037297943418396672"
+          ],
+          "media_source_tweet_id": [
+            "2037298206090969499"
+          ]
+        },
+        "author_id": "1583845663095283713",
+        "conversation_id": "2085170381120291089",
+        "created_at": "2026-08-06T01:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085170381120291089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 33,
+              "tag": "suicidetwt"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "shtwt"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "suicide"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "selfharm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6kS0LNVuS",
+              "end": 94,
+              "expanded_url": "https://x.com/GoatRoper911/status/2037298206090969499/video/1",
+              "media_key": "13_2037297943418396672",
+              "start": 71,
+              "url": "https://t.co/M6kS0LNVuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085170381120291089",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3231,
+          "impression_count": 273170,
+          "like_count": 7612,
+          "quote_count": 18,
+          "reply_count": 62,
+          "retweet_count": 484
+        },
+        "reply_settings": "everyone",
+        "text": "(All fake 😋!   )\nY♡ algún dia 💌.\n#suicidetwt #shtwt #suicide #selfharm\nhttps://t.co/M6kS0LNVuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 106,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T15:40:38.000Z",
+        "description": "⠀    \n                   ⊹  𑣲   . X 🇨🇱𝄞 🇬🇧   autistic \n⠀                  Gay      ♡   𓈒    Coffee.      ☆    \n                    #Meow  #Cute   #Once  ♡ .",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "Meow"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "Cute"
+              },
+              {
+                "end": 151,
+                "start": 146,
+                "tag": "Once"
+              }
+            ]
+          }
+        },
+        "id": "1583845663095283713",
+        "location": "meowland!",
+        "name": "♡˙⊹ 𝑀ᴏᴋᴀ ⃝( ˘ ³˘)♥︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084838802225319936/rSb9Ogpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "_kkur4_",
+        "verified": false
+      }
+    ]
+  }
+}

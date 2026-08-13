@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083868124349431808"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2083868178489475090",
+    "created_at": "2026-08-02T10:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083868178489475090"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 22,
+          "start": 8,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "病み垢女子と繫がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OmejsoHI2b",
+          "end": 70,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2083868178489475090/video/1",
+          "media_key": "13_2083868124349431808",
+          "start": 47,
+          "url": "https://t.co/OmejsoHI2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083868178489475090",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/OmejsoHI2b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5963,
+        "height": 1280,
+        "media_key": "13_2083868124349431808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083868124349431808/img/edGqTGWjGoZGleHX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083868124349431808/vid/avc1/320x568/iur0tDnNQI20SjeS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083868124349431808/vid/avc1/480x852/Qfb8dzVaBkx7-7Be.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083868124349431808/vid/avc1/720x1280/2No_Aocp07cJOFgh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083868124349431808/pl/G2f6Cb8Yu8jHOdlm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083868124349431808"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2083868178489475090",
+        "created_at": "2026-08-02T10:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083868178489475090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "病み垢女子と繫がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OmejsoHI2b",
+              "end": 70,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2083868178489475090/video/1",
+              "media_key": "13_2083868124349431808",
+              "start": 47,
+              "url": "https://t.co/OmejsoHI2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083868178489475090",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/OmejsoHI2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 102,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 395
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

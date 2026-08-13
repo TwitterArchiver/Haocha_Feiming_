@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2084214240878194929",
+    "created_at": "2026-08-03T09:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084214240878194929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_wuming/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/drug_wuming/status/2083886014280716647",
+          "start": 7,
+          "url": "https://t.co/JAhc1K2djM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084214240878194929",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083886014280716647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ttkttk https://t.co/JAhc1K2djM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2084214240878194929",
+        "created_at": "2026-08-03T09:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084214240878194929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_wuming/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/drug_wuming/status/2083886014280716647",
+              "start": 7,
+              "url": "https://t.co/JAhc1K2djM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084214240878194929",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083886014280716647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ttkttk https://t.co/JAhc1K2djM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2083886014280716647",
+        "created_at": "2026-08-02T12:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083886014280716647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/InnocentB1tch_…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/InnocentB1tch_/status/2083436811217690764",
+              "start": 43,
+              "url": "https://t.co/C7hD3H2wE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083886014280716647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6649,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药圈比较值得观看的事情\n春雨女大大战地雷女\n地雷女大战mtf\n去年就有了，今年又来了 https://t.co/C7hD3H2wE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 105,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 833,
+          "like_count": 624,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false
+      }
+    ]
+  }
+}

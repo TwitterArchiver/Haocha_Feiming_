@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082488390017241088"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2082488402487001116",
+    "created_at": "2026-07-29T15:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082488402487001116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QYjm81iu5W",
+          "end": 28,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2082488402487001116/video/1",
+          "media_key": "13_2082488390017241088",
+          "start": 5,
+          "url": "https://t.co/QYjm81iu5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082488402487001116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当心耳朵 https://t.co/QYjm81iu5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2976,
+        "height": 1280,
+        "media_key": "13_2082488390017241088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082488390017241088/img/ANQn9UmkcVxvlBMU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082488390017241088/vid/avc1/320x806/mDMcEhXJRaQmpSUu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082488390017241088/vid/avc1/508x1280/yx1Zi_0Jf6er1BM4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082488390017241088/pl/9h_qTQoynotgL6Si.m3u8"
+          }
+        ],
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082488390017241088"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2082488402487001116",
+        "created_at": "2026-07-29T15:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082488402487001116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYjm81iu5W",
+              "end": 28,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082488402487001116/video/1",
+              "media_key": "13_2082488390017241088",
+              "start": 5,
+              "url": "https://t.co/QYjm81iu5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082488402487001116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当心耳朵 https://t.co/QYjm81iu5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 94,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}
