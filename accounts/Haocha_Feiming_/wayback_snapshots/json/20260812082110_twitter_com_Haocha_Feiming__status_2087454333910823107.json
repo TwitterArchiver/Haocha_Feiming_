@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2087454333910823107",
+    "created_at": "2026-08-12T08:21:10.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087454333910823107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/brainrotpostig…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/brainrotpostig/status/2087229629559964001",
+          "start": 13,
+          "url": "https://t.co/x9teedorIz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087454333910823107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087229629559964001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽尼玛红红你真的自由子 https://t.co/x9teedorIz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10820,
+        "height": 576,
+        "media_key": "13_2087229611939598337",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087229611939598337/img/2F_4_yc06dNngJb_.jpg",
+        "public_metrics": {
+          "view_count": 1560607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087229611939598337/vid/avc1/320x320/LbW7BgPDeRsuLboj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087229611939598337/vid/avc1/576x576/gtbNjWUOoIzjzPac.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087229611939598337/pl/T5XMLvo8_CgE0n_g.m3u8?v=32e"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2087454333910823107",
+        "created_at": "2026-08-12T08:21:10.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087454333910823107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brainrotpostig…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/brainrotpostig/status/2087229629559964001",
+              "start": 13,
+              "url": "https://t.co/x9teedorIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087454333910823107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087229629559964001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛红红你真的自由子 https://t.co/x9teedorIz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087229611939598337"
+          ]
+        },
+        "author_id": "1782546886760554496",
+        "conversation_id": "2087229629559964001",
+        "created_at": "2026-08-11T17:28:17.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087229629559964001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peowg3I4ab",
+              "end": 23,
+              "expanded_url": "https://x.com/brainrotpostig/status/2087229629559964001/video/1",
+              "media_key": "13_2087229611939598337",
+              "start": 0,
+              "url": "https://t.co/peowg3I4ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087229629559964001",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087229611939598337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9519,
+          "impression_count": 2788333,
+          "like_count": 98787,
+          "quote_count": 1321,
+          "reply_count": 478,
+          "retweet_count": 11178
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/peowg3I4ab"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2087454333910823107",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 115,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T23:07:56.000Z",
+        "description": "shi that make me lol and cringe | for comedic purposes only | Please send DM for CREDITS and REMOVAL | Minors DNI❗️\n\n| 2condary: @rottedimension |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rottedimension"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@idkdude6665?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@idkdude6665?si=RZz0sxmTIrA5avNm",
+                "start": 0,
+                "url": "https://t.co/sHHjtQN2c9"
+              }
+            ]
+          }
+        },
+        "id": "1782546886760554496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087384158456750453",
+        "name": "brainrot dimension",
+        "pinned_tweet_id": "2068142229772718586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782546886760554496/1770776339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811114902213312512/MPJzaiHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190969,
+          "following_count": 18,
+          "like_count": 7598,
+          "listed_count": 213,
+          "media_count": 9950,
+          "tweet_count": 11237
+        },
+        "url": "https://t.co/sHHjtQN2c9",
+        "username": "brainrotpostig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

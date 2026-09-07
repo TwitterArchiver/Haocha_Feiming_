@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086574598922084352"
+      ],
+      "media_source_tweet_id": [
+        "2086574607801479480"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2087954247572934905",
+    "created_at": "2026-08-13T17:27:39.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087954247572934905"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "门槛"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "线下"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "非绿"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "半绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3019413068",
+          "start": 3,
+          "username": "rana29406007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C2mQ8thKkx",
+          "end": 87,
+          "expanded_url": "https://x.com/rana29406007/status/2086574607801479480/photo/1",
+          "media_key": "3_2086574598922084352",
+          "start": 64,
+          "url": "https://t.co/C2mQ8thKkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087954247572934905",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086574598922084352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086574607801479480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rana29406007: 我重生了我是口口犬…#门槛 #门槛妹 #门槛哥 #爸爸活 #妈妈活 #线下 #非绿 #半绿 https://t.co/C2mQ8thKkx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086574598922084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUAiuYaoAADjK8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086574598922084352"
+          ]
+        },
+        "author_id": "3019413068",
+        "conversation_id": "2086574607801479480",
+        "created_at": "2026-08-09T22:05:27.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086574607801479480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "门槛"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "线下"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "非绿"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "半绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2mQ8thKkx",
+              "end": 69,
+              "expanded_url": "https://x.com/rana29406007/status/2086574607801479480/photo/1",
+              "media_key": "3_2086574598922084352",
+              "start": 46,
+              "url": "https://t.co/C2mQ8thKkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086574607801479480",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086574598922084352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4095,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了我是口口犬…#门槛 #门槛妹 #门槛哥 #爸爸活 #妈妈活 #线下 #非绿 #半绿 https://t.co/C2mQ8thKkx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086574598922084352"
+          ],
+          "media_source_tweet_id": [
+            "2086574607801479480"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2087954247572934905",
+        "created_at": "2026-08-13T17:27:39.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087954247572934905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "门槛"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "线下"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "非绿"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "半绿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3019413068",
+              "start": 3,
+              "username": "rana29406007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2mQ8thKkx",
+              "end": 87,
+              "expanded_url": "https://x.com/rana29406007/status/2086574607801479480/photo/1",
+              "media_key": "3_2086574598922084352",
+              "start": 64,
+              "url": "https://t.co/C2mQ8thKkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087954247572934905",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086574598922084352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086574607801479480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rana29406007: 我重生了我是口口犬…#门槛 #门槛妹 #门槛哥 #爸爸活 #妈妈活 #线下 #非绿 #半绿 https://t.co/C2mQ8thKkx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2087954247572934905",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 122,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-14T09:35:37.000Z",
+        "description": "载我回家",
+        "id": "3019413068",
+        "is_identity_verified": false,
+        "location": "坐标10验证20  🚪188",
+        "most_recent_tweet_id": "2087930269554843828",
+        "name": "Rei",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3019413068/1786311393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086566792370233344/yOS_tCVQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 5,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "rana29406007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

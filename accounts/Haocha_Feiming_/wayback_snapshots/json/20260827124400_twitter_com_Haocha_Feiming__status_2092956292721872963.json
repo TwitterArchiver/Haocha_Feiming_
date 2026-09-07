@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092956106482151424",
+        "3_2092956106469576704",
+        "3_2092956106473828352",
+        "3_2092956106498994176"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092956292721872963",
+    "created_at": "2026-08-27T12:44:00.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092956292721872963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zZioef6ABi",
+          "end": 45,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+          "media_key": "3_2092956106482151424",
+          "start": 22,
+          "url": "https://t.co/zZioef6ABi"
+        },
+        {
+          "display_url": "pic.x.com/zZioef6ABi",
+          "end": 45,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+          "media_key": "3_2092956106469576704",
+          "start": 22,
+          "url": "https://t.co/zZioef6ABi"
+        },
+        {
+          "display_url": "pic.x.com/zZioef6ABi",
+          "end": 45,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+          "media_key": "3_2092956106473828352",
+          "start": 22,
+          "url": "https://t.co/zZioef6ABi"
+        },
+        {
+          "display_url": "pic.x.com/zZioef6ABi",
+          "end": 45,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+          "media_key": "3_2092956106498994176",
+          "start": 22,
+          "url": "https://t.co/zZioef6ABi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092956292721872963",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092956106482151424"
+      },
+      {
+        "media_key": "3_2092956106469576704"
+      },
+      {
+        "media_key": "3_2092956106473828352"
+      },
+      {
+        "media_key": "3_2092956106498994176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老公有一丢丢怕蛇 拍p2的时候他完全不敢动 https://t.co/zZioef6ABi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092956106482151424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQusfWlacAAmnFV.jpg",
+        "width": 1474
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092956106469576704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQusfWiakAAF630.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092956106473828352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQusfWjbcAAX-zA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092956106498994176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQusfWpbcAAE1ND.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092956106482151424",
+            "3_2092956106469576704",
+            "3_2092956106473828352",
+            "3_2092956106498994176"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092956292721872963",
+        "created_at": "2026-08-27T12:44:00.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092956292721872963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zZioef6ABi",
+              "end": 45,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+              "media_key": "3_2092956106482151424",
+              "start": 22,
+              "url": "https://t.co/zZioef6ABi"
+            },
+            {
+              "display_url": "pic.x.com/zZioef6ABi",
+              "end": 45,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+              "media_key": "3_2092956106469576704",
+              "start": 22,
+              "url": "https://t.co/zZioef6ABi"
+            },
+            {
+              "display_url": "pic.x.com/zZioef6ABi",
+              "end": 45,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+              "media_key": "3_2092956106473828352",
+              "start": 22,
+              "url": "https://t.co/zZioef6ABi"
+            },
+            {
+              "display_url": "pic.x.com/zZioef6ABi",
+              "end": 45,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092956292721872963/photo/1",
+              "media_key": "3_2092956106498994176",
+              "start": 22,
+              "url": "https://t.co/zZioef6ABi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092956292721872963",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092956106482151424"
+          },
+          {
+            "media_key": "3_2092956106469576704"
+          },
+          {
+            "media_key": "3_2092956106473828352"
+          },
+          {
+            "media_key": "3_2092956106498994176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公有一丢丢怕蛇 拍p2的时候他完全不敢动 https://t.co/zZioef6ABi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092956292721872963",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 149,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 859
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092907267331162199",
+    "created_at": "2026-08-27T16:21:12.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093010952535060661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1994834373599006729",
+          "start": 0,
+          "username": "loewe1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093010952535060661",
+    "in_reply_to_user_id": "1994834373599006729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092907267331162199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loewe1z 我对象居然无师自通了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092907267331162199",
+        "created_at": "2026-08-27T16:21:12.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093010952535060661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1994834373599006729",
+              "start": 0,
+              "username": "loewe1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093010952535060661",
+        "in_reply_to_user_id": "1994834373599006729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092907267331162199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loewe1z 我对象居然无师自通了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994834373599006729",
+        "conversation_id": "2092907267331162199",
+        "created_at": "2026-08-27T09:29:11.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092907267331162199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092907267331162199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 55550,
+          "like_count": 792,
+          "quote_count": 11,
+          "reply_count": 239,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "用枕头把对方屁股和腰垫起来双手抓着腰当杯子草真的很色情啊。而且这个姿势还很容易顶到底"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2093010952535060661",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 152,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 877
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T18:22:39.000Z",
+        "description": "我们的交集不过尔尔，请你不要再靠近了。",
+        "id": "1994834373599006729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092981309371187476",
+        "name": "被窝",
+        "pinned_tweet_id": "2083989979580313776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994834373599006729/1787601285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065077637895307264/7JKPwy9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 128,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "loewe1z",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

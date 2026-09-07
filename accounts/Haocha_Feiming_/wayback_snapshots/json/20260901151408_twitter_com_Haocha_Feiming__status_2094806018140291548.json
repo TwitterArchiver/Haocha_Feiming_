@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2094806018140291548",
+    "created_at": "2026-09-01T15:14:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094806018140291548"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "量產型"
+        },
+        {
+          "end": 104,
+          "start": 98,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "门槛"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "纯绿"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "半绿"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "陪聊"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "线下"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "电子女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2065057589860216832",
+          "start": 3,
+          "username": "Fortunate111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094806018140291548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088929628106682383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fortunate111111: 你好我是小饼饼\n我脑子有问题不要欺负我了\n坐标湖南 验证和具体位置20r\n我接纯绿半绿包车马哪都去 请给我点钱让我活下去 同类和我互转互fo吧\n#量產型 #病み垢女子 #门槛 #门槛妹 #纯绿 #半绿 #陪聊 #线下 #电子女友 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088929605528731649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1eaJpWQAE7HCA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1839,
+        "media_key": "3_2088929605516152832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1eaJmWUAAO_86.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088929605516144641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1eaJmWMAEdxCO.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2094806018140291548",
+        "created_at": "2026-09-01T15:14:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094806018140291548"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "量產型"
+            },
+            {
+              "end": 104,
+              "start": 98,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "门槛"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "纯绿"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "半绿"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "陪聊"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "线下"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "电子女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2065057589860216832",
+              "start": 3,
+              "username": "Fortunate111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094806018140291548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088929628106682383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fortunate111111: 你好我是小饼饼\n我脑子有问题不要欺负我了\n坐标湖南 验证和具体位置20r\n我接纯绿半绿包车马哪都去 请给我点钱让我活下去 同类和我互转互fo吧\n#量產型 #病み垢女子 #门槛 #门槛妹 #纯绿 #半绿 #陪聊 #线下 #电子女友 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088929605528731649",
+            "3_2088929605516152832",
+            "3_2088929605516144641"
+          ]
+        },
+        "author_id": "2065057589860216832",
+        "conversation_id": "2088929628106682383",
+        "created_at": "2026-08-16T10:03:28.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088929628106682383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "量產型"
+            },
+            {
+              "end": 83,
+              "start": 77,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "门槛"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "纯绿"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "半绿"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "陪聊"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "线下"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DE1oq7QTgL",
+              "end": 138,
+              "expanded_url": "https://x.com/Fortunate111111/status/2088929628106682383/photo/1",
+              "media_key": "3_2088929605528731649",
+              "start": 115,
+              "url": "https://t.co/DE1oq7QTgL"
+            },
+            {
+              "display_url": "pic.x.com/DE1oq7QTgL",
+              "end": 138,
+              "expanded_url": "https://x.com/Fortunate111111/status/2088929628106682383/photo/1",
+              "media_key": "3_2088929605516152832",
+              "start": 115,
+              "url": "https://t.co/DE1oq7QTgL"
+            },
+            {
+              "display_url": "pic.x.com/DE1oq7QTgL",
+              "end": 138,
+              "expanded_url": "https://x.com/Fortunate111111/status/2088929628106682383/photo/1",
+              "media_key": "3_2088929605516144641",
+              "start": 115,
+              "url": "https://t.co/DE1oq7QTgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088929628106682383",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088929605528731649"
+          },
+          {
+            "media_key": "3_2088929605516152832"
+          },
+          {
+            "media_key": "3_2088929605516144641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是小饼饼\n我脑子有问题不要欺负我了\n坐标湖南 验证和具体位置20r\n我接纯绿半绿包车马哪都去 请给我点钱让我活下去 同类和我互转互fo吧\n#量產型 #病み垢女子 #门槛 #门槛妹 #纯绿 #半绿 #陪聊 #线下 #电子女友 https://t.co/DE1oq7QTgL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2094806018140291548",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 164,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T13:05:41.000Z",
+        "description": "🚪99/188/388/520 入门让我们更幸福 四天清一次转 谢谢你",
+        "id": "2065057589860216832",
+        "is_identity_verified": false,
+        "location": "⑅︎✞┈︎┈︎┈︎┈︎┈︎┈︎┈︎┈︎┈︎✞⑅︎",
+        "most_recent_tweet_id": "2094664724239532085",
+        "name": "总而言之你很可爱",
+        "pinned_tweet_id": "2088929628106682383",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065057589860216832/1785996770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085247416110809088/dJo7FVYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Fortunate111111",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

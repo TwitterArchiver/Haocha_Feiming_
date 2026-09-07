@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092616821874815425",
+    "created_at": "2026-08-26T14:15:03.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092616821874815425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        },
+        {
+          "end": 51,
+          "id": "1626658024449540097",
+          "start": 39,
+          "username": "h4tewithluv"
+        },
+        {
+          "end": 112,
+          "id": "1789010584731586561",
+          "start": 99,
+          "username": "17_ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092616821874815425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092584498512929115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 永夜安港 【每日空投】来辣！\n今天看见扎鸡叔和扎嫂 @h4tewithluv  撒狗粮了，俺不中嘞😿\n今天评论区我想看看大家的【撒狗粮】照片，【评论、转发、关注】即可参与，@17_ZakkysLab 扎鸡叔会抽取两个幸运观众送出【典藏版】妙妙小礼物！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2092583694267760641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpZyG-awAE3aPE.jpg",
+        "width": 2992
+      },
+      {
+        "height": 2992,
+        "media_key": "3_2092583713943216128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpZzQRaYAAJgz9.jpg",
+        "width": 2992
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2092583822533795840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpZ5kzbIAA8ZhC.jpg",
+        "width": 978
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092583867530297344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpZ8MbbQAA4MsI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092616821874815425",
+        "created_at": "2026-08-26T14:15:03.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092616821874815425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            },
+            {
+              "end": 51,
+              "id": "1626658024449540097",
+              "start": 39,
+              "username": "h4tewithluv"
+            },
+            {
+              "end": 112,
+              "id": "1789010584731586561",
+              "start": 99,
+              "username": "17_ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092616821874815425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092584498512929115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 永夜安港 【每日空投】来辣！\n今天看见扎鸡叔和扎嫂 @h4tewithluv  撒狗粮了，俺不中嘞😿\n今天评论区我想看看大家的【撒狗粮】照片，【评论、转发、关注】即可参与，@17_ZakkysLab 扎鸡叔会抽取两个幸运观众送出【典藏版】妙妙小礼物！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092583694267760641",
+            "3_2092583713943216128",
+            "3_2092583822533795840",
+            "3_2092583867530297344"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2092584498512929115",
+        "created_at": "2026-08-26T12:06:37.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092584498512929115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1626658024449540097",
+              "start": 26,
+              "username": "h4tewithluv"
+            },
+            {
+              "end": 99,
+              "id": "1789010584731586561",
+              "start": 86,
+              "username": "17_ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsZFcdEF8u",
+              "end": 149,
+              "expanded_url": "https://x.com/pr80net/status/2092584498512929115/photo/1",
+              "media_key": "3_2092583694267760641",
+              "start": 126,
+              "url": "https://t.co/GsZFcdEF8u"
+            },
+            {
+              "display_url": "pic.x.com/GsZFcdEF8u",
+              "end": 149,
+              "expanded_url": "https://x.com/pr80net/status/2092584498512929115/photo/1",
+              "media_key": "3_2092583713943216128",
+              "start": 126,
+              "url": "https://t.co/GsZFcdEF8u"
+            },
+            {
+              "display_url": "pic.x.com/GsZFcdEF8u",
+              "end": 149,
+              "expanded_url": "https://x.com/pr80net/status/2092584498512929115/photo/1",
+              "media_key": "3_2092583822533795840",
+              "start": 126,
+              "url": "https://t.co/GsZFcdEF8u"
+            },
+            {
+              "display_url": "pic.x.com/GsZFcdEF8u",
+              "end": 149,
+              "expanded_url": "https://x.com/pr80net/status/2092584498512929115/photo/1",
+              "media_key": "3_2092583867530297344",
+              "start": 126,
+              "url": "https://t.co/GsZFcdEF8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092584498512929115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092583694267760641"
+          },
+          {
+            "media_key": "3_2092583713943216128"
+          },
+          {
+            "media_key": "3_2092583822533795840"
+          },
+          {
+            "media_key": "3_2092583867530297344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "1626658024449540097",
+                "start": 26,
+                "username": "h4tewithluv"
+              },
+              {
+                "end": 99,
+                "id": "1789010584731586561",
+                "start": 86,
+                "username": "17_ZakkysLab"
+              }
+            ]
+          },
+          "text": "永夜安港 【每日空投】来辣！\n今天看见扎鸡叔和扎嫂 @h4tewithluv  撒狗粮了，俺不中嘞😿\n今天评论区我想看看大家的【撒狗粮】照片，【评论、转发、关注】即可参与，@17_ZakkysLab 扎鸡叔会抽取两个幸运观众送出【典藏版】妙妙小礼物！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 654,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "永夜安港 【每日空投】来辣！\n今天看见扎鸡叔和扎嫂 @h4tewithluv  撒狗粮了，俺不中嘞😿\n今天评论区我想看看大家的【撒狗粮】照片，【评论、转发、关注】即可参与，@17_ZakkysLab 扎鸡叔会抽取两个幸运观众送出【典藏版】妙妙小礼物！ https://t.co/GsZFcdEF8u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092616821874815425",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 148,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @AndresgKevin\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "AndresgKevin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2092601919974019468",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2092584498512929115",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 618,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-17T19:01:20.000Z",
+        "description": "98年的老東西 / ip北京、上海、吉隆坡 / od / 割 / 雙相 / 精神狀態=開盲盒 / 我的未來一眼望到頭\n🚪：暫無，不想加墻內",
+        "id": "1626658024449540097",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092586236087275979",
+        "name": "世界盡頭是一片螢光海",
+        "pinned_tweet_id": "2092269483809513837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626658024449540097/1787583844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091905768585150464/yrwPkiap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 39,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "h4tewithluv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T19:12:26.000Z",
+        "description": "扎鸡兄弟 Los Pollos Hermanos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/ALxTTL6SOC"
+              }
+            ]
+          }
+        },
+        "id": "1789010584731586561",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2092586457240395979",
+        "name": "扎17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789010584731586561/1787669819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092264793378099201/nwq8pqCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 41,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/ALxTTL6SOC",
+        "username": "17_ZakkysLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

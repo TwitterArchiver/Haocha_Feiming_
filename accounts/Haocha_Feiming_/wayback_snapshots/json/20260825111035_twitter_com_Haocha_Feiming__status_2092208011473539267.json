@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092208004271939584",
+        "3_2092208004280258560"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092208011473539267",
+    "created_at": "2026-08-25T11:10:35.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092208011473539267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WaJdM0JjEb",
+          "end": 29,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092208011473539267/photo/1",
+          "media_key": "3_2092208004271939584",
+          "start": 6,
+          "url": "https://t.co/WaJdM0JjEb"
+        },
+        {
+          "display_url": "pic.x.com/WaJdM0JjEb",
+          "end": 29,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092208011473539267/photo/1",
+          "media_key": "3_2092208004280258560",
+          "start": 6,
+          "url": "https://t.co/WaJdM0JjEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092208011473539267",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092208004271939584"
+      },
+      {
+        "media_key": "3_2092208004280258560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安啥子药 https://t.co/WaJdM0JjEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1297,
+        "media_key": "3_2092208004271939584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkEGErboAA-RZC.jpg",
+        "width": 1001
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2092208004280258560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkEGEtakAAIHHA.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092208004271939584",
+            "3_2092208004280258560"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092208011473539267",
+        "created_at": "2026-08-25T11:10:35.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092208011473539267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaJdM0JjEb",
+              "end": 29,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092208011473539267/photo/1",
+              "media_key": "3_2092208004271939584",
+              "start": 6,
+              "url": "https://t.co/WaJdM0JjEb"
+            },
+            {
+              "display_url": "pic.x.com/WaJdM0JjEb",
+              "end": 29,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092208011473539267/photo/1",
+              "media_key": "3_2092208004280258560",
+              "start": 6,
+              "url": "https://t.co/WaJdM0JjEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092208011473539267",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092208004271939584"
+          },
+          {
+            "media_key": "3_2092208004280258560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安啥子药 https://t.co/WaJdM0JjEb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092208011473539267",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 138,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 790
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

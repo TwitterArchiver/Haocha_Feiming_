@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092035913161511419",
+    "created_at": "2026-08-25T11:16:03.000Z",
+    "display_text_range": [
+      10,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092209386827792756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911495718793064449",
+          "start": 0,
+          "username": "ji_ba438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092209386827792756",
+    "in_reply_to_user_id": "1911495718793064449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092035913161511419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_ba438 就是这样，男的女的都这样，逼都扣冒烟了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092035913161511419",
+        "created_at": "2026-08-25T11:16:03.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092209386827792756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911495718793064449",
+              "start": 0,
+              "username": "ji_ba438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092209386827792756",
+        "in_reply_to_user_id": "1911495718793064449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092035913161511419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_ba438 就是这样，男的女的都这样，逼都扣冒烟了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911495718793064449",
+        "conversation_id": "2092035913161511419",
+        "created_at": "2026-08-24T23:46:44.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092035913161511419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092035913161511419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5465,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林是春药，我他吗一直在那个，但是射不出来，射精障碍，射不出来，难受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092209386827792756",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 138,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T19:04:38.000Z",
+        "description": "不聊骚不互看，我想说啥就说啥",
+        "id": "1911495718793064449",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092188173598400699",
+        "name": "火鸡味锅巴",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 236,
+          "like_count": 4122,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1561
+        },
+        "url": "",
+        "username": "ji_ba438",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

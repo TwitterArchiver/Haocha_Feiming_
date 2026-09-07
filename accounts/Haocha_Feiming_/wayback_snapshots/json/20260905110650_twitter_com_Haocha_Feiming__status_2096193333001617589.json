@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2096193333001617589",
+    "created_at": "2026-09-05T11:06:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096193333001617589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1369647090",
+          "start": 3,
+          "username": "Selda_QanQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096193333001617589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094852298086511002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Selda_QanQa: 一个置顶🔝\n我是押押 intp | 坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n求求女宝来和我互转喵\n\n帮转发的乖宝抽10个kfc2个520🈵1000fo开过门前可语音验证\n\n前世@youaremycurse…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094852270441869312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJpCnybsAANxvg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094852270437650432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJpCnxbUAAgdcM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2094852270441799680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJpCnyaoAAFg4P.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2094852270475354112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJpCn6aoAA5awf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2096193333001617589",
+        "created_at": "2026-09-05T11:06:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096193333001617589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1369647090",
+              "start": 3,
+              "username": "Selda_QanQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096193333001617589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094852298086511002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Selda_QanQa: 一个置顶🔝\n我是押押 intp | 坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n求求女宝来和我互转喵\n\n帮转发的乖宝抽10个kfc2个520🈵1000fo开过门前可语音验证\n\n前世@youaremycurse…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094852270441869312",
+            "3_2094852270437650432",
+            "3_2094852270441799680",
+            "3_2094852270475354112"
+          ]
+        },
+        "author_id": "1369647090",
+        "conversation_id": "2094852298086511002",
+        "created_at": "2026-09-01T18:18:02.000Z",
+        "display_text_range": [
+          0,
+          181
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T19:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094852298086511002"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "原味"
+            },
+            {
+              "end": 140,
+              "start": 134,
+              "tag": "cos委托"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "线下"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "租借女友"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "门槛"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "金主"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "包养"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "萝莉"
+            },
+            {
+              "end": 172,
+              "start": 167,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 177,
+              "start": 173,
+              "tag": "Cos"
+            },
+            {
+              "end": 181,
+              "start": 178,
+              "tag": "反差"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 123,
+              "id": "2092522408930582529",
+              "start": 108,
+              "username": "youaremycurse_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTg43AKg92",
+              "end": 205,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2094852298086511002/photo/1",
+              "media_key": "3_2094852270441869312",
+              "start": 182,
+              "url": "https://t.co/bTg43AKg92"
+            },
+            {
+              "display_url": "pic.x.com/bTg43AKg92",
+              "end": 205,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2094852298086511002/photo/1",
+              "media_key": "3_2094852270437650432",
+              "start": 182,
+              "url": "https://t.co/bTg43AKg92"
+            },
+            {
+              "display_url": "pic.x.com/bTg43AKg92",
+              "end": 205,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2094852298086511002/photo/1",
+              "media_key": "3_2094852270441799680",
+              "start": 182,
+              "url": "https://t.co/bTg43AKg92"
+            },
+            {
+              "display_url": "pic.x.com/bTg43AKg92",
+              "end": 205,
+              "expanded_url": "https://x.com/Selda_QanQa/status/2094852298086511002/photo/1",
+              "media_key": "3_2094852270475354112",
+              "start": 182,
+              "url": "https://t.co/bTg43AKg92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094852298086511002",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094852270441869312"
+          },
+          {
+            "media_key": "3_2094852270437650432"
+          },
+          {
+            "media_key": "3_2094852270441799680"
+          },
+          {
+            "media_key": "3_2094852270475354112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2042,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "一个置顶🔝\n我是押押 intp | 坐标安徽合肥\n关键词：萝莉/cos/天然呆\n努力让生活变好中\n出售原味私信咨询\n求求女宝来和我互转喵\n\n帮转发的乖宝抽10个kfc2个520🈵1000fo开过门前可语音验证\n\n前世@youaremycurse_\n\n#爸爸活 #原味 #cos委托 #线下 ＃租借女友 #门槛 #金主 #包养 #萝莉 #ATM奴 #Cos #反差 https://t.co/bTg43AKg92"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2096193333001617589",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 183,
+          "like_count": 550,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 1044
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-04-21T14:12:42.000Z",
+        "description": "前世千fo现已重生w｜欢迎入🚪｜非绿请私信｜你对我的态度=我对你的态度｜上个号被贱人所害😭｜88🚪可接线下限时到10月10结束",
+        "id": "1369647090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096100161659560366",
+        "name": "押押official（二世",
+        "pinned_tweet_id": "2094852298086511002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369647090/1788286057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094850215186677760/YzSyzHPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 29,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "Selda_QanQa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

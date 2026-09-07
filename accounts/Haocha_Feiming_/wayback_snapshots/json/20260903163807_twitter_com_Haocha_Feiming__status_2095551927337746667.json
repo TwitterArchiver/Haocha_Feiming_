@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2095536301533761748",
+    "created_at": "2026-09-03T16:38:07.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095551927337746667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066108983178579968",
+          "start": 0,
+          "username": "AkiraTT_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095551927337746667",
+    "in_reply_to_user_id": "2066108983178579968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095536301533761748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiraTT_chan 爱你呀呀呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8288,
+        "height": 720,
+        "media_key": "13_2095536258324062208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095536258324062208/img/US-H7KGnenLJ-owE.jpg",
+        "public_metrics": {
+          "view_count": 86
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095536258324062208/vid/avc1/480x270/ZZy0HmoHhygO7Zhv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095536258324062208/vid/avc1/640x360/UvczOqDkxUl9JGQW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095536258324062208/vid/avc1/1280x720/18n7zC3SkxTBG00O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095536258324062208/pl/R_4-4ASDKFyylR0S.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2095536301533761748",
+        "created_at": "2026-09-03T16:38:07.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095551927337746667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066108983178579968",
+              "start": 0,
+              "username": "AkiraTT_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095551927337746667",
+        "in_reply_to_user_id": "2066108983178579968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095536301533761748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiraTT_chan 爱你呀呀呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095536258324062208"
+          ]
+        },
+        "author_id": "2066108983178579968",
+        "conversation_id": "2095536301533761748",
+        "created_at": "2026-09-03T15:36:02.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095536301533761748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMvlfCpqA2",
+              "end": 32,
+              "expanded_url": "https://x.com/AkiraTT_chan/status/2095536301533761748/video/1",
+              "media_key": "13_2095536258324062208",
+              "start": 9,
+              "url": "https://t.co/kMvlfCpqA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095536301533761748",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095536258324062208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想有人能爱我 https://t.co/kMvlfCpqA2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2095551927337746667",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 171,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T10:45:00.000Z",
+        "description": "我是晓晓呀 同类宝宝大欢迎我爱你们…\n防炸逃生舱@AkiraTTT_chan \n避风港@Xiaomaozhai0120\n互fo请私信呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "AkiraTTT_chan"
+              },
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Xiaomaozhai0120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/Kfc4R9CsiU"
+              }
+            ]
+          }
+        },
+        "id": "2066108983178579968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095546099969011824",
+        "name": "Akira_晓（2.0）",
+        "pinned_tweet_id": "2084204086984122721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066108983178579968/1785643084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083764239504969728/GicOm_yF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 186,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/Kfc4R9CsiU",
+        "username": "AkiraTT_chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

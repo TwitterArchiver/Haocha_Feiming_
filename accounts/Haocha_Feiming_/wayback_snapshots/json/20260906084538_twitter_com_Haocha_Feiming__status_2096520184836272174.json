@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2096458319359815827",
+    "created_at": "2026-09-06T08:45:38.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096520184836272174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2093199347764887552",
+          "start": 0,
+          "username": "kk2yyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096520184836272174",
+    "in_reply_to_user_id": "2093199347764887552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096516071566213456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk2yyds 无语子我恨死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2096458319359815827",
+        "created_at": "2026-09-06T08:45:38.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096520184836272174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2093199347764887552",
+              "start": 0,
+              "username": "kk2yyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096520184836272174",
+        "in_reply_to_user_id": "2093199347764887552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096516071566213456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk2yyds 无语子我恨死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093199347764887552",
+        "conversation_id": "2096458319359815827",
+        "created_at": "2026-09-06T08:29:17.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096516071566213456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243828267439792128",
+              "start": 0,
+              "username": "Haocha_Feiming_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096516071566213456",
+        "in_reply_to_user_id": "1243828267439792128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096494524982088172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haocha_Feiming_ 这男的真的让人超级无语"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2096520184836272174",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 193,
+          "like_count": 591,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1096
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T04:50:53.000Z",
+        "description": "💊｜🩸｜🔪｜🚬\n不常看黑茶但是看到会秒回\n大号已炸@YA_0542 三号坤防炸@pr80yyds \nod妹直接fo会回我喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "YA_0542"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              }
+            ]
+          }
+        },
+        "id": "2093199347764887552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096516071566213456",
+        "name": "親愛なるあなたは火葬",
+        "pinned_tweet_id": "2093203444475764930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093199347764887552/1788314980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095467971695239168/fWXUQRxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 179,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "kk2yyds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

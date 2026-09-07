@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2094073610843643918",
+    "created_at": "2026-08-31T12:37:58.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094404329407213623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071924874163912704",
+          "start": 0,
+          "username": "AIAIFOREVER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094404329407213623",
+    "in_reply_to_user_id": "2071924874163912704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094073610843643918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIAIFOREVER 我也是这样 氛围灯再加外放歌单 给家当KTV了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2094073610843643918",
+        "created_at": "2026-08-31T12:37:58.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094404329407213623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094404329407213623",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094073610843643918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 我也是这样 氛围灯再加外放歌单 给家当KTV了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2094073610843643918",
+        "created_at": "2026-08-30T14:43:49.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094073610843643918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094073610843643918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么o大了会想唱歌，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2094404329407213623",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 163,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094400296198021406",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 436,
+          "like_count": 7032,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2057
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

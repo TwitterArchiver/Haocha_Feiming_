@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2091716167857586660",
+    "created_at": "2026-08-24T10:37:36.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091837322996420899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1360649628232810496",
+          "start": 0,
+          "username": "annieAnn779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091837322996420899",
+    "in_reply_to_user_id": "1360649628232810496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091716167857586660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annieAnn779 对的对的非常美味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2091716167857586660",
+        "created_at": "2026-08-24T10:37:36.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091837322996420899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1360649628232810496",
+              "start": 0,
+              "username": "annieAnn779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091837322996420899",
+        "in_reply_to_user_id": "1360649628232810496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091716167857586660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annieAnn779 对的对的非常美味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360649628232810496",
+        "conversation_id": "2091716167857586660",
+        "created_at": "2026-08-24T02:36:11.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091716167857586660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091716167857586660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8597,
+          "like_count": 310,
+          "quote_count": 7,
+          "reply_count": 50,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我的取向其实是私下会变小狗撒娇的熟男。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2091837322996420899",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 136,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T17:58:55.000Z",
+        "description": "勾引我吧 我的意思是我想和你说话\nᐝᥫᩣ喜欢可爱的人\n匿名📪https://t.co/WsYtxhAemT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/annie10679",
+                "end": 53,
+                "expanded_url": "http://ngl.link/annie10679",
+                "start": 30,
+                "url": "https://t.co/WsYtxhAemT"
+              }
+            ]
+          }
+        },
+        "id": "1360649628232810496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091824558923804945",
+        "name": "迟槐安",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360649628232810496/1778413125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067673737151819776/35YwCRt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 144,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "annieAnn779",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

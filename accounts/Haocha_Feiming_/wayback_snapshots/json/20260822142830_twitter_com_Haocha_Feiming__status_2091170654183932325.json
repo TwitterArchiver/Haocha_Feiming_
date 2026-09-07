@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090876703409143808"
+      ],
+      "media_source_tweet_id": [
+        "2090876711449596254"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2091170654183932325",
+    "created_at": "2026-08-22T14:28:30.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091170654183932325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601977779729448960",
+          "start": 3,
+          "username": "jeivezin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/33lSY5bACt",
+          "end": 78,
+          "expanded_url": "https://x.com/jeivezin/status/2090876711449596254/photo/1",
+          "media_key": "3_2090876703409143808",
+          "start": 55,
+          "url": "https://t.co/33lSY5bACt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091170654183932325",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2090876703409143808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1006
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090876711449596254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jeivezin: so queria ta assim nesse final de semana https://t.co/33lSY5bACt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2090876703409143808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRJSKfXgAAcCpL.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090876703409143808"
+          ],
+          "media_source_tweet_id": [
+            "2090876711449596254"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2091170654183932325",
+        "created_at": "2026-08-22T14:28:30.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091170654183932325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601977779729448960",
+              "start": 3,
+              "username": "jeivezin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33lSY5bACt",
+              "end": 78,
+              "expanded_url": "https://x.com/jeivezin/status/2090876711449596254/photo/1",
+              "media_key": "3_2090876703409143808",
+              "start": 55,
+              "url": "https://t.co/33lSY5bACt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091170654183932325",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090876703409143808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1006
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090876711449596254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jeivezin: so queria ta assim nesse final de semana https://t.co/33lSY5bACt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090876703409143808"
+          ]
+        },
+        "author_id": "1601977779729448960",
+        "conversation_id": "2090876711449596254",
+        "created_at": "2026-08-21T19:00:29.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090876711449596254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33lSY5bACt",
+              "end": 64,
+              "expanded_url": "https://x.com/jeivezin/status/2090876711449596254/photo/1",
+              "media_key": "3_2090876703409143808",
+              "start": 41,
+              "url": "https://t.co/33lSY5bACt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090876711449596254",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090876703409143808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 47605,
+          "like_count": 4518,
+          "quote_count": 49,
+          "reply_count": 6,
+          "retweet_count": 1006
+        },
+        "reply_settings": "everyone",
+        "text": "so queria ta assim nesse final de semana https://t.co/33lSY5bACt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2091170654183932325",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 131,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 752
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-11T16:31:51.000Z",
+        "description": "damn.\nApenas um mero rapaz passando o tempo",
+        "id": "1601977779729448960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091074504613122439",
+        "name": "João",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601977779729448960/1786339946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082302271153418240/FoGf5Yjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 161,
+          "like_count": 5454,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 3644
+        },
+        "url": "",
+        "username": "jeivezin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

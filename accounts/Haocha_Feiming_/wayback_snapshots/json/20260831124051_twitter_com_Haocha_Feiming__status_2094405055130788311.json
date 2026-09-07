@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094402563122528257"
+      ],
+      "media_source_tweet_id": [
+        "2094402724599103671"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094405055130788311",
+    "created_at": "2026-08-31T12:40:51.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094405055130788311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087636528633982976",
+          "start": 3,
+          "username": "67De_dian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sy6HyUeC8f",
+          "end": 55,
+          "expanded_url": "https://x.com/67De_dian/status/2094402724599103671/photo/1",
+          "media_key": "3_2094402563122528257",
+          "start": 32,
+          "url": "https://t.co/sy6HyUeC8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094405055130788311",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094402563122528257"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094402724599103671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @67De_dian: 出物呀TwT\n有没有宝宝需要呀… https://t.co/sy6HyUeC8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1970,
+        "media_key": "3_2094402563122528257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDQCNeWAAE8XWS.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094402563122528257"
+          ],
+          "media_source_tweet_id": [
+            "2094402724599103671"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094405055130788311",
+        "created_at": "2026-08-31T12:40:51.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094405055130788311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087636528633982976",
+              "start": 3,
+              "username": "67De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy6HyUeC8f",
+              "end": 55,
+              "expanded_url": "https://x.com/67De_dian/status/2094402724599103671/photo/1",
+              "media_key": "3_2094402563122528257",
+              "start": 32,
+              "url": "https://t.co/sy6HyUeC8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094405055130788311",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094402563122528257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094402724599103671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @67De_dian: 出物呀TwT\n有没有宝宝需要呀… https://t.co/sy6HyUeC8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094402563122528257"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094402724599103671",
+        "created_at": "2026-08-31T12:31:36.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094402724599103671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy6HyUeC8f",
+              "end": 40,
+              "expanded_url": "https://x.com/67De_dian/status/2094402724599103671/photo/1",
+              "media_key": "3_2094402563122528257",
+              "start": 17,
+              "url": "https://t.co/sy6HyUeC8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094402724599103671",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094402563122528257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "出物呀TwT\n有没有宝宝需要呀… https://t.co/sy6HyUeC8f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2094405055130788311",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 165,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094404373342191858",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 321,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

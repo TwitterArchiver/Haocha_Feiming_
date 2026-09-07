@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2093450804342718974",
+    "created_at": "2026-08-30T07:25:03.000Z",
+    "display_text_range": [
+      10,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093963192653451512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851320794586177536",
+          "start": 0,
+          "username": "n_vrmine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093963192653451512",
+    "in_reply_to_user_id": "1851320794586177536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093460171909738716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_vrmine 现在才看到😭😭谢谢宝宝！我昨天买了电解质水了！虽然喝后全部吐了 我吐了五六次吧 胆汁都出来了 稳定一些之后吃了奥美拉唑 和一些安眠药 睡了一觉好多了 谢谢宝宝的建议＞_＜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2093450804342718974",
+        "created_at": "2026-08-30T07:25:03.000Z",
+        "display_text_range": [
+          10,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093963192653451512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851320794586177536",
+              "start": 0,
+              "username": "n_vrmine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093963192653451512",
+        "in_reply_to_user_id": "1851320794586177536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093460171909738716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_vrmine 现在才看到😭😭谢谢宝宝！我昨天买了电解质水了！虽然喝后全部吐了 我吐了五六次吧 胆汁都出来了 稳定一些之后吃了奥美拉唑 和一些安眠药 睡了一觉好多了 谢谢宝宝的建议＞_＜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851320794586177536",
+        "conversation_id": "2093450804342718974",
+        "created_at": "2026-08-28T22:06:14.000Z",
+        "display_text_range": [
+          17,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T23:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093460171909738716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243828267439792128",
+              "start": 0,
+              "username": "Haocha_Feiming_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093460171909738716",
+        "in_reply_to_user_id": "1243828267439792128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093450804342718974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haocha_Feiming_ 吐两三次就差不多了 宝宝家里有没有止吐药 没有的话外卖送一下 靠左侧躺休息一下吧 先别喝水 可以顺便外卖电解质水"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2093963192653451512",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 161,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T17:51:00.000Z",
+        "description": "@zz1fswm\n不聊骚不约炮不陪聊不线下🈚️坐标\n不回私信 再发拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "zz1fswm"
+              }
+            ]
+          }
+        },
+        "id": "1851320794586177536",
+        "is_identity_verified": false,
+        "location": "🚪188/520",
+        "most_recent_tweet_id": "2093730003758547358",
+        "name": "🍃",
+        "pinned_tweet_id": "2090917455862563027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851320794586177536/1730224377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080690363413757959/vcCjqKkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6865,
+          "following_count": 225,
+          "like_count": 15863,
+          "listed_count": 9,
+          "media_count": 23,
+          "tweet_count": 1985
+        },
+        "url": "",
+        "username": "n_vrmine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

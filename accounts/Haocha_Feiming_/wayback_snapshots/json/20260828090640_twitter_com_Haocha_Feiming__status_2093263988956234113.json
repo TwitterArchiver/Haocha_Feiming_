@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2093263988956234113",
+    "created_at": "2026-08-28T09:06:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T10:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093263988956234113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092352022213521409",
+          "start": 3,
+          "username": "Czz66000oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093263988956234113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092369050546643176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Czz66000oo: 你好我是橙子汁163/86斤北京东城区\n 可全国飞/可验证 \n胃病缠身负债累累 求好心人救救我吧\n可以互转 谢谢禁口嗨 \n这条帖子➕关注 点赞 转发 所有帖子 评论666抽1*免费线下非绿 2*视频紫薇30分钟 3*福利视频2个 9月15号开 中…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13850,
+        "height": 1280,
+        "media_key": "13_2092369009358635008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092369009358635008/img/R0aedz0Qd7Y9cPQv.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092369009358635008/vid/avc1/320x568/R4fShIvMAC7YEAcE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092369009358635008/vid/avc1/480x852/8l4-vhmUqb9doGF8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092369009358635008/vid/avc1/720x1280/vhBibRMilZ6_qbzF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092369009358635008/pl/ZO5x9smRwKvEsVlF.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1505,
+        "media_key": "3_2092369009333420033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmWhzRawAEIhYk.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1732,
+        "media_key": "3_2092369009333428224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmWhzRa4AAbvsD.jpg",
+        "width": 1189
+      },
+      {
+        "height": 1882,
+        "media_key": "3_2092369009329262592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmWhzQbUAAi-bu.jpg",
+        "width": 1197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2093263988956234113",
+        "created_at": "2026-08-28T09:06:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093263988956234113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092352022213521409",
+              "start": 3,
+              "username": "Czz66000oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093263988956234113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092369050546643176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Czz66000oo: 你好我是橙子汁163/86斤北京东城区\n 可全国飞/可验证 \n胃病缠身负债累累 求好心人救救我吧\n可以互转 谢谢禁口嗨 \n这条帖子➕关注 点赞 转发 所有帖子 评论666抽1*免费线下非绿 2*视频紫薇30分钟 3*福利视频2个 9月15号开 中…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092369009358635008",
+            "3_2092369009333420033",
+            "3_2092369009333428224",
+            "3_2092369009329262592"
+          ]
+        },
+        "author_id": "2092352022213521409",
+        "conversation_id": "2092369050546643176",
+        "created_at": "2026-08-25T21:50:30.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T22:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092369050546643176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "北京"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "线下"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "门槛"
+            },
+            {
+              "end": 147,
+              "start": 145,
+              "tag": "m"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "非绿"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "反差"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "站街"
+            },
+            {
+              "end": 165,
+              "start": 160,
+              "tag": "电子女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkGxcDcD9k",
+              "end": 189,
+              "expanded_url": "https://x.com/Czz66000oo/status/2092369050546643176/video/1",
+              "media_key": "13_2092369009358635008",
+              "start": 166,
+              "url": "https://t.co/KkGxcDcD9k"
+            },
+            {
+              "display_url": "pic.x.com/KkGxcDcD9k",
+              "end": 189,
+              "expanded_url": "https://x.com/Czz66000oo/status/2092369050546643176/video/1",
+              "media_key": "3_2092369009333420033",
+              "start": 166,
+              "url": "https://t.co/KkGxcDcD9k"
+            },
+            {
+              "display_url": "pic.x.com/KkGxcDcD9k",
+              "end": 189,
+              "expanded_url": "https://x.com/Czz66000oo/status/2092369050546643176/video/1",
+              "media_key": "3_2092369009333428224",
+              "start": 166,
+              "url": "https://t.co/KkGxcDcD9k"
+            },
+            {
+              "display_url": "pic.x.com/KkGxcDcD9k",
+              "end": 189,
+              "expanded_url": "https://x.com/Czz66000oo/status/2092369050546643176/video/1",
+              "media_key": "3_2092369009329262592",
+              "start": 166,
+              "url": "https://t.co/KkGxcDcD9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092369050546643176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092369009358635008"
+          },
+          {
+            "media_key": "3_2092369009333420033"
+          },
+          {
+            "media_key": "3_2092369009333428224"
+          },
+          {
+            "media_key": "3_2092369009329262592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是橙子汁163/86斤北京东城区\n 可全国飞/可验证 \n胃病缠身负债累累 求好心人救救我吧\n可以互转 谢谢禁口嗨 \n这条帖子➕关注 点赞 转发 所有帖子 评论666抽1*免费线下非绿 2*视频紫薇30分钟 3*福利视频2个 9月15号开 中奖的 私信注意查收 #北京 #线下 #门槛 #m #非绿 #反差 #站街 #电子女友 https://t.co/KkGxcDcD9k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2093263988956234113",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 155,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 902
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T20:43:50.000Z",
+        "description": "之前号被制裁了@chenzi_66 前世2000fo 可口令 赞赏码 可以验证 北京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "chenzi_66"
+              }
+            ]
+          }
+        },
+        "id": "2092352022213521409",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2093229376750199108",
+        "name": "橙子汁",
+        "pinned_tweet_id": "2092369050546643176",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092352022213521409/1787694472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092368313544577024/o4Slc5aS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Czz66000oo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

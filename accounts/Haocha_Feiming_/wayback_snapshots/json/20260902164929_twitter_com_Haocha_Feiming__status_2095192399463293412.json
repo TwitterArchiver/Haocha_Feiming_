@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2095192399463293412",
+    "created_at": "2026-09-02T16:49:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095192399463293412"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 84,
+          "tag": "病み垢さんと繋がり"
+        },
+        {
+          "end": 101,
+          "start": 95,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "地雷女子"
+        },
+        {
+          "end": 119,
+          "start": 108,
+          "tag": "地雷女子と繋がりたい"
+        },
+        {
+          "end": 133,
+          "start": 120,
+          "tag": "メンヘラさんと繋がりたい"
+        },
+        {
+          "end": 139,
+          "start": 134,
+          "tag": "メンヘラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1256757256214818818",
+          "start": 3,
+          "username": "GuimuRena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095192399463293412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095053067687538739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuimuRena: 🔝\n自介条\n这里氿木レナ \n04/🈹手/od/穿孔/双相情感障碍/adhd/重度焦虑/地雷女/cosplay \n同类互转互fo大欢迎 \n\n#病み垢さんと繋がり #病み垢女子 #地雷女子 #地雷女子と繋がりたい #メンヘラさんと繋がりたい #メンヘラ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095053060968185856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMfqKyagAAR015.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095053060964007936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMfqKxawAARJvD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2095192399463293412",
+        "created_at": "2026-09-02T16:49:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095192399463293412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 84,
+              "tag": "病み垢さんと繋がり"
+            },
+            {
+              "end": 101,
+              "start": 95,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 119,
+              "start": 108,
+              "tag": "地雷女子と繋がりたい"
+            },
+            {
+              "end": 133,
+              "start": 120,
+              "tag": "メンヘラさんと繋がりたい"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "メンヘラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1256757256214818818",
+              "start": 3,
+              "username": "GuimuRena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095192399463293412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095053067687538739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuimuRena: 🔝\n自介条\n这里氿木レナ \n04/🈹手/od/穿孔/双相情感障碍/adhd/重度焦虑/地雷女/cosplay \n同类互转互fo大欢迎 \n\n#病み垢さんと繋がり #病み垢女子 #地雷女子 #地雷女子と繋がりたい #メンヘラさんと繋がりたい #メンヘラ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095053060968185856",
+            "3_2095053060964007936"
+          ]
+        },
+        "author_id": "1256757256214818818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2095053067687538739",
+        "created_at": "2026-09-02T07:35:50.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095053067687538739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 69,
+              "tag": "病み垢さんと繋がり"
+            },
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 104,
+              "start": 93,
+              "tag": "地雷女子と繋がりたい"
+            },
+            {
+              "end": 118,
+              "start": 105,
+              "tag": "メンヘラさんと繋がりたい"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "メンヘラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7yb4kXZAi",
+              "end": 188,
+              "expanded_url": "https://x.com/GuimuRena/status/2095053067687538739/photo/1",
+              "media_key": "3_2095053060968185856",
+              "start": 165,
+              "url": "https://t.co/p7yb4kXZAi"
+            },
+            {
+              "display_url": "pic.x.com/p7yb4kXZAi",
+              "end": 188,
+              "expanded_url": "https://x.com/GuimuRena/status/2095053067687538739/photo/1",
+              "media_key": "3_2095053060964007936",
+              "start": 165,
+              "url": "https://t.co/p7yb4kXZAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095053067687538739",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095053060968185856"
+          },
+          {
+            "media_key": "3_2095053060964007936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n自介条\n这里氿木レナ \n04/🈹手/od/穿孔/双相情感障碍/adhd/重度焦虑/地雷女/cosplay \n同类互转互fo大欢迎 \n\n#病み垢さんと繋がり #病み垢女子 #地雷女子 #地雷女子と繋がりたい #メンヘラさんと繋がりたい #メンヘラ \n\n本帖图片均为特效化妆模拟，参照医学教学案例设计，无任何真实伤情，纯学术用途 https://t.co/p7yb4kXZAi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2095192399463293412",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 169,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 994
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "💬CN JP EN 💊ADHD&双相情感障碍&重度焦虑🎲葛葉激推💕欢迎互fo互转 #地雷女子 #メンヘラ #OD #リスカ #病み垢 #薬物依存症 #ピアス #穿孔 #コスプレヤー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "地雷女子"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 56,
+                "start": 53,
+                "tag": "OD"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "リスカ"
+              },
+              {
+                "end": 66,
+                "start": 62,
+                "tag": "病み垢"
+              },
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "薬物依存症"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "ピアス"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "穿孔"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "コスプレヤー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xrena_9m?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xrena_9m?_t=ZS-8yyfizW7cW7&_r=1",
+                "start": 0,
+                "url": "https://t.co/EZHEMbZ9Uf"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095166134886805614",
+        "name": "氿木レナ",
+        "pinned_tweet_id": "2095053067687538739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256757256214818818/1760626974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 451,
+          "like_count": 901,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/EZHEMbZ9Uf",
+        "username": "GuimuRena",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

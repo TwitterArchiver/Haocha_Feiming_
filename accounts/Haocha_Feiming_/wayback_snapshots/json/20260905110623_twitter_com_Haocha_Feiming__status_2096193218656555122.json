@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2096193218656555122",
+    "created_at": "2026-09-05T11:06:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096193218656555122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816393735829131264",
+          "start": 3,
+          "username": "Manadjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096193218656555122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093530889774837863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Manadjb: 梦想成为一只女仆w！在家服务daddy素偶滴梦各位家长快来助力up\n脸照入门后回🉑发送 甜妹长相 不好看不要钱平时可以一起打game🎮网全程开麦\n每周都有福利更新掉落 以及娇喘音频.\n给我买玩具🟰给反馈手冲视频\n早入🚪早享受 保证不亏\n视频验证20🥕可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093530875220680704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ23PS_XYAA2HDa.jpg",
+        "width": 1262
+      },
+      {
+        "height": 792,
+        "media_key": "3_2093530875229011968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ23PTBWgAA9fY4.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2096193218656555122",
+        "created_at": "2026-09-05T11:06:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096193218656555122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816393735829131264",
+              "start": 3,
+              "username": "Manadjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096193218656555122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093530889774837863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Manadjb: 梦想成为一只女仆w！在家服务daddy素偶滴梦各位家长快来助力up\n脸照入门后回🉑发送 甜妹长相 不好看不要钱平时可以一起打game🎮网全程开麦\n每周都有福利更新掉落 以及娇喘音频.\n给我买玩具🟰给反馈手冲视频\n早入🚪早享受 保证不亏\n视频验证20🥕可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093530875220680704",
+            "3_2093530875229011968"
+          ]
+        },
+        "author_id": "1816393735829131264",
+        "conversation_id": "2093530889774837863",
+        "created_at": "2026-08-29T02:47:14.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093530889774837863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CchZ7ithgQ",
+              "end": 160,
+              "expanded_url": "https://x.com/Manadjb/status/2093530889774837863/photo/1",
+              "media_key": "3_2093530875220680704",
+              "start": 137,
+              "url": "https://t.co/CchZ7ithgQ"
+            },
+            {
+              "display_url": "pic.x.com/CchZ7ithgQ",
+              "end": 160,
+              "expanded_url": "https://x.com/Manadjb/status/2093530889774837863/photo/1",
+              "media_key": "3_2093530875229011968",
+              "start": 137,
+              "url": "https://t.co/CchZ7ithgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093530889774837863",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093530875220680704"
+          },
+          {
+            "media_key": "3_2093530875229011968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2715,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "梦想成为一只女仆w！在家服务daddy素偶滴梦各位家长快来助力up\n脸照入门后回🉑发送 甜妹长相 不好看不要钱平时可以一起打game🎮网全程开麦\n每周都有福利更新掉落 以及娇喘音频.\n给我买玩具🟰给反馈手冲视频\n早入🚪早享受 保证不亏\n视频验证20🥕可打视频 随意指定要求 https://t.co/CchZ7ithgQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2096193218656555122",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 183,
+          "like_count": 550,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-25T08:43:46.000Z",
+        "description": "⊹⁺˖໋̟⸝⸝  𑣧⃙̴ཻ̑꙯⃩⃔⃕͡᷍ ⸝⸝𑌻̢⸝̠⸝⃬⸝ 𑣧⃙̴ཻ̑꙯⃩⃔⃕͡᷍ ⸝⸝ ᘁᩚ ˖ᕀ⸜̑⸝͂˖⁺໋̟⊹\n当朋友圈发捏",
+        "id": "1816393735829131264",
+        "is_identity_verified": false,
+        "location": "🚪88/188/288/520/1314",
+        "most_recent_tweet_id": "2095952113385754949",
+        "name": "整只懒大王",
+        "pinned_tweet_id": "2093530889774837863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816393735829131264/1776912790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055080051406970880/f6eKaTjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "Manadjb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

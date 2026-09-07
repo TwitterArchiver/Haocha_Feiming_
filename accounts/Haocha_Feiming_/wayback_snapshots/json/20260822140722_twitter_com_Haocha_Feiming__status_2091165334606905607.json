@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2091165334606905607",
+    "created_at": "2026-08-22T14:07:22.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091165334606905607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haocha_feiming…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/haocha_feiming_/status/2074302363515703532",
+          "start": 8,
+          "url": "https://t.co/263WfNxYro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091165334606905607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074302363515703532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回家，回家…… https://t.co/263WfNxYro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2074302353705172992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlnACVagAAvVCl.jpg",
+        "width": 1070
+      },
+      {
+        "height": 1879,
+        "media_key": "3_2074302353713582080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlnACXa0AAFWYT.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2091165334606905607",
+        "created_at": "2026-08-22T14:07:22.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091165334606905607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haocha_feiming…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/haocha_feiming_/status/2074302363515703532",
+              "start": 8,
+              "url": "https://t.co/263WfNxYro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091165334606905607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074302363515703532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回家，回家…… https://t.co/263WfNxYro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074302353705172992",
+            "3_2074302353713582080"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2074302363515703532",
+        "created_at": "2026-07-07T01:19:56.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074302363515703532"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 31,
+              "start": 17,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "地雷系"
+            },
+            {
+              "end": 73,
+              "start": 61,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0leYYcpyp",
+              "end": 97,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2074302363515703532/photo/1",
+              "media_key": "3_2074302353705172992",
+              "start": 74,
+              "url": "https://t.co/z0leYYcpyp"
+            },
+            {
+              "display_url": "pic.x.com/z0leYYcpyp",
+              "end": 97,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2074302363515703532/photo/1",
+              "media_key": "3_2074302353713582080",
+              "start": 74,
+              "url": "https://t.co/z0leYYcpyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074302363515703532",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2074302353705172992"
+          },
+          {
+            "media_key": "3_2074302353713582080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2195,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ね(´-ω-`)\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい https://t.co/z0leYYcpyp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2091165334606905607",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 130,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 740
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

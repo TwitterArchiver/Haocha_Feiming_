@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2095831175109685249",
+    "created_at": "2026-09-05T07:57:11.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096145604070265109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919090536180600832",
+          "start": 0,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096145604070265109",
+    "in_reply_to_user_id": "1919090536180600832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095831175109685249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokigirlluv 又磕疯了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12351,
+        "height": 1920,
+        "media_key": "13_2095831121074466816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095831121074466816/img/yhb_zfhtG7SR7Nnx.jpg",
+        "public_metrics": {
+          "view_count": 9083
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095831121074466816/pl/mSFVeJLIuyVTaz5a.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095831121074466816/vid/avc1/320x568/DQoJCKo-6jENjVey.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095831121074466816/vid/avc1/720x1280/2Yuz3pHQ1BG-gudH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095831121074466816/vid/avc1/480x852/Kgzkkww_I_mMwXYC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095831121074466816/vid/avc1/1080x1920/Wi0QY2f_LEae7jjP.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2095831175109685249",
+        "created_at": "2026-09-05T07:57:11.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096145604070265109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096145604070265109",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095831175109685249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv 又磕疯了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095831121074466816"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "2095831175109685249",
+        "created_at": "2026-09-04T11:07:45.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095831175109685249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/el1IzcRXbS",
+              "end": 69,
+              "expanded_url": "https://x.com/dokigirlluv/status/2095831175109685249/video/1",
+              "media_key": "13_2095831121074466816",
+              "start": 46,
+              "url": "https://t.co/el1IzcRXbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095831175109685249",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095831121074466816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 16519,
+          "like_count": 500,
+          "quote_count": 4,
+          "reply_count": 130,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "very sexy \nsweet sexy girl and boy\nsex sexbom https://t.co/el1IzcRXbS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2096145604070265109",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 181,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 1040
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "doki girl https://t.co/k2PgJQzyvq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 33,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 10,
+                "url": "https://t.co/k2PgJQzyvq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sophiaqwq00?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sophiaqwq00?igsh=MXdyYjB5a3NwaGhraQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/EQEkSNISp8"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095831175109685249",
+        "name": "Sophia",
+        "pinned_tweet_id": "2064401451766665522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919090536180600832/1781032386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071045306872164352/BvDPqHz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17987,
+          "following_count": 36,
+          "like_count": 1839,
+          "listed_count": 5,
+          "media_count": 210,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/EQEkSNISp8",
+        "username": "dokigirlluv",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

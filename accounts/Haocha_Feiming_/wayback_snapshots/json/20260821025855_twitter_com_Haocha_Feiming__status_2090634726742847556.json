@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090634718777856000",
+        "3_2090634718803107840"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090634726742847556",
+    "created_at": "2026-08-21T02:58:55.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090634726742847556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XSCd7zVCye",
+          "end": 54,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2090634726742847556/photo/1",
+          "media_key": "3_2090634718777856000",
+          "start": 31,
+          "url": "https://t.co/XSCd7zVCye"
+        },
+        {
+          "display_url": "pic.x.com/XSCd7zVCye",
+          "end": 54,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2090634726742847556/photo/1",
+          "media_key": "3_2090634718803107840",
+          "start": 31,
+          "url": "https://t.co/XSCd7zVCye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090634726742847556",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090634718777856000"
+      },
+      {
+        "media_key": "3_2090634718803107840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好难过好难过 我很久没有这么难过了 全身都在发抖 现在解离 https://t.co/XSCd7zVCye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2090634718777856000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNtMzfaUAAp1TT.jpg",
+        "width": 1179
+      },
+      {
+        "height": 845,
+        "media_key": "3_2090634718803107840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNtMzlboAA3YcP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090634718777856000",
+            "3_2090634718803107840"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090634726742847556",
+        "created_at": "2026-08-21T02:58:55.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090634726742847556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XSCd7zVCye",
+              "end": 54,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2090634726742847556/photo/1",
+              "media_key": "3_2090634718777856000",
+              "start": 31,
+              "url": "https://t.co/XSCd7zVCye"
+            },
+            {
+              "display_url": "pic.x.com/XSCd7zVCye",
+              "end": 54,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2090634726742847556/photo/1",
+              "media_key": "3_2090634718803107840",
+              "start": 31,
+              "url": "https://t.co/XSCd7zVCye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090634726742847556",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090634718777856000"
+          },
+          {
+            "media_key": "3_2090634718803107840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难过好难过 我很久没有这么难过了 全身都在发抖 现在解离 https://t.co/XSCd7zVCye"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2090634726742847556",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 127,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

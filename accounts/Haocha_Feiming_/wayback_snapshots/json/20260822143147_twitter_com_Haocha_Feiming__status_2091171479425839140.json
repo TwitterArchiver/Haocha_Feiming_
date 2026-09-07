@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2091171479425839140",
+    "created_at": "2026-08-22T14:31:47.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091171479425839140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518746270378119169",
+          "start": 3,
+          "username": "darksfaack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091171479425839140",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090933527655109113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darksfaack: Te quiero, te amo, te adoro, te extraño."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2091171479425839140",
+        "created_at": "2026-08-22T14:31:47.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091171479425839140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518746270378119169",
+              "start": 3,
+              "username": "darksfaack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091171479425839140",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090933527655109113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darksfaack: Te quiero, te amo, te adoro, te extraño."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518746270378119169",
+        "conversation_id": "2090933527655109113",
+        "created_at": "2026-08-21T22:46:15.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090933527655109113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090933527655109113",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 18723,
+          "like_count": 1162,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "Te quiero, te amo, te adoro, te extraño."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2091171479425839140",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 132,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 754
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-26T00:18:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/groups/6898416…",
+                "end": 23,
+                "expanded_url": "https://facebook.com/groups/689841606533956/",
+                "start": 0,
+                "url": "https://t.co/hv6z9dJo8K"
+              }
+            ]
+          }
+        },
+        "id": "1518746270378119169",
+        "is_identity_verified": true,
+        "location": "algo así suena mi mente",
+        "most_recent_tweet_id": "2091026801996816894",
+        "name": "𝕯𝖆𝖗𝖐𝖘 𑣲",
+        "pinned_tweet_id": "2079618355414106583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518746270378119169/1784012588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078038329283485696/FbH0af08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 10,
+          "like_count": 2656,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/hv6z9dJo8K",
+        "username": "darksfaack",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

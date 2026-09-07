@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2089571718650348030",
+    "created_at": "2026-08-18T04:34:54.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089571718650348030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066038957553360896",
+          "start": 0,
+          "username": "withu_4ever_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089571718650348030",
+    "in_reply_to_user_id": "2066038957553360896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@withu_4ever_ 可以去我小号看看❄️图(´-ω-`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2089571718650348030",
+        "created_at": "2026-08-18T04:34:54.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089571718650348030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066038957553360896",
+              "start": 0,
+              "username": "withu_4ever_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089571718650348030",
+        "in_reply_to_user_id": "2066038957553360896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@withu_4ever_ 可以去我小号看看❄️图(´-ω-`)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2089571718650348030",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 120,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T06:05:10.000Z",
+        "description": "sh 精神障害 main account @Haocha_Feiming_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Haocha_Feiming_"
+              }
+            ]
+          }
+        },
+        "id": "2066038957553360896",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089313841033404442",
+        "name": "知りたい、",
+        "pinned_tweet_id": "2080750207244107788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066038957553360896/1784618652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079467411045285888/cyX8sD_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 28,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "withu_4ever_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

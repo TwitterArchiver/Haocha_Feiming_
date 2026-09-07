@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092209227930706214",
+    "created_at": "2026-08-25T11:15:25.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092209227930706214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fearlove5/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/fearlove5/status/2092104246439321924",
+          "start": 8,
+          "url": "https://t.co/4Mo7IaETBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092209227930706214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092104246439321924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个宝贝很可爱 https://t.co/4Mo7IaETBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2092104233013370880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQiltynaYAAIY1n.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092209227930706214",
+        "created_at": "2026-08-25T11:15:25.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092209227930706214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fearlove5/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/fearlove5/status/2092104246439321924",
+              "start": 8,
+              "url": "https://t.co/4Mo7IaETBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092209227930706214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092104246439321924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个宝贝很可爱 https://t.co/4Mo7IaETBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092104233013370880"
+          ]
+        },
+        "author_id": "2897089498",
+        "conversation_id": "2092104246439321924",
+        "created_at": "2026-08-25T04:18:16.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092104246439321924"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "门槛"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "电子女友"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "陪聊"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7a1ZNyN6v",
+              "end": 90,
+              "expanded_url": "https://x.com/FearLove5/status/2092104246439321924/photo/1",
+              "media_key": "3_2092104233013370880",
+              "start": 67,
+              "url": "https://t.co/X7a1ZNyN6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092104246439321924",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092104233013370880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hello跪求入门第一个门哥求你快来🥹\n#自撮り界隈 #病み垢女子 \n#地雷系さんと繋がりたい\n#门槛妹 #门槛 #电子女友 #陪聊 https://t.co/X7a1ZNyN6v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092209227930706214",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 138,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 791
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-29T07:48:02.000Z",
+        "description": "距离奇迹降临还有__天",
+        "id": "2897089498",
+        "is_identity_verified": false,
+        "location": "🚪88/188/288/520/1314 问坐标20r",
+        "most_recent_tweet_id": "2092191514680316303",
+        "name": "akane",
+        "pinned_tweet_id": "2091847264943866225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2897089498/1787558901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091799713075154945/COrgUnI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 3,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "FearLove5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2088834204989845807",
+    "created_at": "2026-08-16T13:29:09.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088981389287071901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066164606213795840",
+          "start": 0,
+          "username": "HelloLLQuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088981389287071901",
+    "in_reply_to_user_id": "2066164606213795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088972583991742710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelloLLQuQ 代购买的🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2088834204989845807",
+        "created_at": "2026-08-16T13:29:09.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088981389287071901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066164606213795840",
+              "start": 0,
+              "username": "HelloLLQuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088981389287071901",
+        "in_reply_to_user_id": "2066164606213795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088972583991742710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelloLLQuQ 代购买的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066164606213795840",
+        "conversation_id": "2088834204989845807",
+        "created_at": "2026-08-16T12:54:09.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088972583991742710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243828267439792128",
+              "start": 0,
+              "username": "Haocha_Feiming_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088972583991742710",
+        "in_reply_to_user_id": "1243828267439792128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088865414533292249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haocha_Feiming_ 好爽啊 俺们这里啥都没有🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2088981389287071901",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 106,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:31:05.000Z",
+        "description": "我是人机-我会在这里补档我的画和发一些日常👉xhs指路：https://t.co/2McKGqpTNL\n需要回关请私信我（我怕打扰到你）\n可以向我提问🙋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 51,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 28,
+                "url": "https://t.co/2McKGqpTNL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 0,
+                "url": "https://t.co/2McKGqpTNL"
+              }
+            ]
+          }
+        },
+        "id": "2066164606213795840",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2088972583991742710",
+        "name": "网络人机",
+        "pinned_tweet_id": "2083789333744726268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066164606213795840/1786723940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083114299472687104/B2x4dY6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 53,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/2McKGqpTNL",
+        "username": "HelloLLQuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

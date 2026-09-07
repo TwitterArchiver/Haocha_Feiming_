@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092952054822256730",
+    "created_at": "2026-08-28T00:05:35.000Z",
+    "display_text_range": [
+      13,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093127821128544307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946132863457595392",
+          "start": 0,
+          "username": "AmieReineke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093127821128544307",
+    "in_reply_to_user_id": "1946132863457595392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092952054822256730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmieReineke 看守所同理 我蹭了十个月免费的药和专家定期复诊(´-ω-`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092952054822256730",
+        "created_at": "2026-08-28T00:05:35.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093127821128544307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946132863457595392",
+              "start": 0,
+              "username": "AmieReineke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093127821128544307",
+        "in_reply_to_user_id": "1946132863457595392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092952054822256730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmieReineke 看守所同理 我蹭了十个月免费的药和专家定期复诊(´-ω-`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946132863457595392",
+        "conversation_id": "2092952054822256730",
+        "created_at": "2026-08-27T12:27:09.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092952054822256730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092952054822256730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4325,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们永远用不到：\n进拘留所前，有体检医生会问身体情况，我当时说有重度抑郁焦虑，每天需要2t劳拉西泮和2t普瑞巴林（只有75mg的）晚上要吃思诺思。\n所以那七天我比平时还要松弛，也没有平时那么焦虑了。\n并且，由于晚上吃安眠药的原因，我只需要值早上5～7点或者晚上9～11点的班。不用半夜起来值班"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2093127821128544307",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 154,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T09:00:21.000Z",
+        "description": "我只是呆着……\n前世：@classictramp\n🚪5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "classictramp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/2RVYUQ69UEC4A?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/xhKiFIVG4p"
+              }
+            ]
+          }
+        },
+        "id": "1946132863457595392",
+        "is_identity_verified": false,
+        "location": "Stuart, FL",
+        "most_recent_tweet_id": "2093126892941406220",
+        "name": "ww",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946132863457595392/1784302533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 98,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/xhKiFIVG4p",
+        "username": "AmieReineke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

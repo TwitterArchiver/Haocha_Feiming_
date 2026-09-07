@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092898531216666954",
+    "created_at": "2026-08-27T12:51:32.000Z",
+    "display_text_range": [
+      38,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092958188966756812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2015660394967404544",
+          "start": 0,
+          "username": "Rien6cf"
+        },
+        {
+          "end": 20,
+          "id": "1515562361070960646",
+          "start": 9,
+          "username": "Minastear1"
+        },
+        {
+          "end": 37,
+          "id": "2000386018953101312",
+          "start": 21,
+          "username": "MiraOmicronCeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092958188966756812",
+    "in_reply_to_user_id": "2015660394967404544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092898531216666954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rien6cf @Minastear1 @MiraOmicronCeti 我去我来了 谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092898531216666954",
+        "created_at": "2026-08-27T12:51:32.000Z",
+        "display_text_range": [
+          38,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092958188966756812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015660394967404544",
+              "start": 0,
+              "username": "Rien6cf"
+            },
+            {
+              "end": 20,
+              "id": "1515562361070960646",
+              "start": 9,
+              "username": "Minastear1"
+            },
+            {
+              "end": 37,
+              "id": "2000386018953101312",
+              "start": 21,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092958188966756812",
+        "in_reply_to_user_id": "2015660394967404544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092898531216666954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rien6cf @Minastear1 @MiraOmicronCeti 我去我来了 谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015660394967404544",
+        "conversation_id": "2092898531216666954",
+        "created_at": "2026-08-27T08:54:28.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092898531216666954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1515562361070960646",
+              "start": 8,
+              "username": "Minastear1"
+            },
+            {
+              "end": 36,
+              "id": "1243828267439792128",
+              "start": 20,
+              "username": "Haocha_Feiming_"
+            },
+            {
+              "end": 53,
+              "id": "2000386018953101312",
+              "start": 37,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092898531216666954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紧急修正三等奖是@Minastear1 @Haocha_Feiming_ @MiraOmicronCeti"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092958188966756812",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 149,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-26T05:37:57.000Z",
+        "description": "関東/SJK\n🗝 @KiLLTheTiME4yo\n人選あり",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "KiLLTheTiME4yo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/em0ujp5le7avzr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/em0ujp5le7avzrv?t=d9UWDm&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C9FVl8YmxU"
+              }
+            ]
+          }
+        },
+        "id": "2015660394967404544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092937090678087748",
+        "name": "ねずみ🐁💤",
+        "pinned_tweet_id": "2082675263587131526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015660394967404544/1785747472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 251,
+          "like_count": 9915,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/C9FVl8YmxU",
+        "username": "Rien6cf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-17T05:26:48.000Z",
+        "description": "＝易烟︱我独立于世界之上︱18↑︱友跨顺女泛性恋︱oder︱提供小零食出售业务︱第二世@Minastear030 永远怀念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Minastear030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/b3aLfzgd4Y"
+              }
+            ]
+          }
+        },
+        "id": "1515562361070960646",
+        "is_identity_verified": false,
+        "location": "Eden",
+        "most_recent_tweet_id": "2092251675184734389",
+        "name": "Minastear",
+        "pinned_tweet_id": "2030864448249024731",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515562361070960646/1650173322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515562692299264001/veLb66ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 284,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/b3aLfzgd4Y",
+        "username": "Minastear1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092897299735404745",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1778279652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 258,
+          "like_count": 7193,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

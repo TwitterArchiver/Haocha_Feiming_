@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076836054821429248"
+      ],
+      "media_source_tweet_id": [
+        "2076836063780442329"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2093986138767999390",
+    "created_at": "2026-08-30T08:56:14.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093986138767999390"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "门槛"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "上海"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2810989664",
+          "start": 3,
+          "username": "____skrgirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJoKcUUzNV",
+          "end": 54,
+          "expanded_url": "https://x.com/____skrgirl/status/2076836063780442329/photo/1",
+          "media_key": "3_2076836054821429248",
+          "start": 31,
+          "url": "https://t.co/jJoKcUUzNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093986138767999390",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2076836054821429248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076836063780442329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @____skrgirl: 喵 #门槛 #上海 #线下 https://t.co/jJoKcUUzNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076836054821429248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJnY2ha4AALXTC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076836054821429248"
+          ],
+          "media_source_tweet_id": [
+            "2076836063780442329"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2093986138767999390",
+        "created_at": "2026-08-30T08:56:14.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093986138767999390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "门槛"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "上海"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2810989664",
+              "start": 3,
+              "username": "____skrgirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJoKcUUzNV",
+              "end": 54,
+              "expanded_url": "https://x.com/____skrgirl/status/2076836063780442329/photo/1",
+              "media_key": "3_2076836054821429248",
+              "start": 31,
+              "url": "https://t.co/jJoKcUUzNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093986138767999390",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2076836054821429248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076836063780442329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @____skrgirl: 喵 #门槛 #上海 #线下 https://t.co/jJoKcUUzNV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076836054821429248"
+          ]
+        },
+        "author_id": "2810989664",
+        "conversation_id": "2076836063780442329",
+        "created_at": "2026-07-14T01:07:58.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076836063780442329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "门槛"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "上海"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJoKcUUzNV",
+              "end": 37,
+              "expanded_url": "https://x.com/____skrgirl/status/2076836063780442329/photo/1",
+              "media_key": "3_2076836054821429248",
+              "start": 14,
+              "url": "https://t.co/jJoKcUUzNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076836063780442329",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2076836054821429248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9773,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "喵 #门槛 #上海 #线下 https://t.co/jJoKcUUzNV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2093986138767999390",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 162,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 930
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-15T09:23:49.000Z",
+        "description": "你曾经那么疼痛的悲伤在今天的我看来只是孩子气",
+        "id": "2810989664",
+        "is_identity_verified": false,
+        "location": "88/288/520 求线下求入门",
+        "most_recent_tweet_id": "2093927787136795049",
+        "name": "喵",
+        "pinned_tweet_id": "2076836063780442329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2810989664/1783556013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074286476599455744/eKSIEg6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 30,
+          "like_count": 1941,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "____skrgirl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

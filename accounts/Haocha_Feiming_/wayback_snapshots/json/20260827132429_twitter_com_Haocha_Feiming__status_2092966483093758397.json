@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092966404387663872",
+        "3_2092966404337315840"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092966483093758397",
+    "created_at": "2026-08-27T13:24:29.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092966483093758397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M7LyAoeMHF",
+          "end": 36,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092966483093758397/video/1",
+          "media_key": "13_2092966404387663872",
+          "start": 13,
+          "url": "https://t.co/M7LyAoeMHF"
+        },
+        {
+          "display_url": "pic.x.com/M7LyAoeMHF",
+          "end": 36,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2092966483093758397/video/1",
+          "media_key": "3_2092966404337315840",
+          "start": 13,
+          "url": "https://t.co/M7LyAoeMHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092966483093758397",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2092966404387663872"
+      },
+      {
+        "media_key": "3_2092966404337315840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被攻击全记录以及第三视角 https://t.co/M7LyAoeMHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2930,
+        "height": 1280,
+        "media_key": "13_2092966404387663872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092966404387663872/img/5NHPujHQcE5ajNB9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092966404387663872/vid/avc1/320x628/92HQ9iD3FM-DS_L-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092966404387663872/vid/avc1/480x942/e4zhJAIBwePJwlq8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092966404387663872/vid/avc1/652x1280/pS8Bs2yCgq3QXrGL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092966404387663872/pl/gGsMrzz63n3X1mGq.m3u8"
+          }
+        ],
+        "width": 652
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2092966404337315840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu12xFaMAAgR1v.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092966404387663872",
+            "3_2092966404337315840"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092966483093758397",
+        "created_at": "2026-08-27T13:24:29.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092966483093758397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M7LyAoeMHF",
+              "end": 36,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092966483093758397/video/1",
+              "media_key": "13_2092966404387663872",
+              "start": 13,
+              "url": "https://t.co/M7LyAoeMHF"
+            },
+            {
+              "display_url": "pic.x.com/M7LyAoeMHF",
+              "end": 36,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092966483093758397/video/1",
+              "media_key": "3_2092966404337315840",
+              "start": 13,
+              "url": "https://t.co/M7LyAoeMHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092966483093758397",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092966404387663872"
+          },
+          {
+            "media_key": "3_2092966404337315840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被攻击全记录以及第三视角 https://t.co/M7LyAoeMHF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092966483093758397",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 150,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

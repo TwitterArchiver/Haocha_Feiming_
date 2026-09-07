@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2092646528276197861",
+    "created_at": "2026-08-26T16:13:06.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092646528276197861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haocha_feiming…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/haocha_feiming_/status/2092645569605128677",
+          "start": 87,
+          "url": "https://t.co/RpSuIdavia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092646528276197861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092645569605128677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个和你小男友一起欣赏我 靠钉子数量定义亚味的母狗 我告诉你我从来没打过亚文化标签那个平台也没有打过地雷相关标签 虽然说出来很傻逼但是真要数钉子你不一定比我多😂到底在比啥呢 https://t.co/RpSuIdavia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2092645553486360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqSCyha8AAZq9A.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092646528276197861",
+        "created_at": "2026-08-26T16:13:06.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092646528276197861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haocha_feiming…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/haocha_feiming_/status/2092645569605128677",
+              "start": 87,
+              "url": "https://t.co/RpSuIdavia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092646528276197861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092645569605128677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个和你小男友一起欣赏我 靠钉子数量定义亚味的母狗 我告诉你我从来没打过亚文化标签那个平台也没有打过地雷相关标签 虽然说出来很傻逼但是真要数钉子你不一定比我多😂到底在比啥呢 https://t.co/RpSuIdavia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092645553486360576"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2092645569605128677",
+        "created_at": "2026-08-26T16:09:17.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092645569605128677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGAqH7mEZg",
+              "end": 23,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2092645569605128677/photo/1",
+              "media_key": "3_2092645553486360576",
+              "start": 0,
+              "url": "https://t.co/qGAqH7mEZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092645569605128677",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092645553486360576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qGAqH7mEZg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2092646528276197861",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 148,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

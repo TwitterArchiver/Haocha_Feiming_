@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090690781837459456"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2090690820433424744",
+    "created_at": "2026-08-21T06:41:49.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090690820433424744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oAY24gzqmT",
+          "end": 34,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2090690820433424744/video/1",
+          "media_key": "13_2090690781837459456",
+          "start": 11,
+          "url": "https://t.co/oAY24gzqmT"
+        },
+        {
+          "display_url": "x.com/haocha_feiming…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/haocha_feiming_/status/2090690634311143840",
+          "start": 35,
+          "url": "https://t.co/KofLxzCODh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090690820433424744",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2090690781837459456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090690634311143840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后回来又是这个逼样 https://t.co/oAY24gzqmT https://t.co/KofLxzCODh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4387,
+        "height": 1280,
+        "media_key": "13_2090690781837459456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090690781837459456/img/5Lr4mk_7cwvU7FkR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090690781837459456/vid/avc1/320x568/mkrrXcZ5NH80riZQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090690781837459456/vid/avc1/480x852/EA_m_7Tx3ivD4OY7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090690781837459456/vid/avc1/720x1280/MJXZDYOwsvoUMKrF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090690781837459456/pl/97c6spjRCsOjIFMj.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1755,
+        "media_key": "3_2090690623087214592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOgC3RagAAPThM.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090690781837459456"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2090690820433424744",
+        "created_at": "2026-08-21T06:41:49.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090690820433424744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAY24gzqmT",
+              "end": 34,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2090690820433424744/video/1",
+              "media_key": "13_2090690781837459456",
+              "start": 11,
+              "url": "https://t.co/oAY24gzqmT"
+            },
+            {
+              "display_url": "x.com/haocha_feiming…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/haocha_feiming_/status/2090690634311143840",
+              "start": 35,
+              "url": "https://t.co/KofLxzCODh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090690820433424744",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090690781837459456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090690634311143840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后回来又是这个逼样 https://t.co/oAY24gzqmT https://t.co/KofLxzCODh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090690623087214592"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2090690634311143840",
+        "created_at": "2026-08-21T06:41:05.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090690634311143840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qrkcNy5Xy",
+              "end": 30,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2090690634311143840/photo/1",
+              "media_key": "3_2090690623087214592",
+              "start": 7,
+              "url": "https://t.co/8qrkcNy5Xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090690634311143840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090690623087214592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完饭回来了 https://t.co/8qrkcNy5Xy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2090690820433424744",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 127,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

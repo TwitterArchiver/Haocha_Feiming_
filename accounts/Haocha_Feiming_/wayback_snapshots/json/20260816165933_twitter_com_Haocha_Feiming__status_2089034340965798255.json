@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2089034340965798255",
+    "created_at": "2026-08-16T16:59:33.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089034340965798255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014214501416284160",
+          "start": 3,
+          "username": "wgylly2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089034340965798255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 477
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088703774689022358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wgylly2: 男人撸管哼哼唧唧才是最骚的时刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2089034340965798255",
+        "created_at": "2026-08-16T16:59:33.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089034340965798255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014214501416284160",
+              "start": 3,
+              "username": "wgylly2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089034340965798255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 477
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088703774689022358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wgylly2: 男人撸管哼哼唧唧才是最骚的时刻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014214501416284160",
+        "conversation_id": "2088703774689022358",
+        "created_at": "2026-08-15T19:06:00.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088703774689022358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088703774689022358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 188496,
+          "like_count": 5345,
+          "quote_count": 40,
+          "reply_count": 384,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "男人撸管哼哼唧唧才是最骚的时刻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2089034340965798255",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 108,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T05:52:30.000Z",
+        "description": "",
+        "id": "2014214501416284160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089030911287517479",
+        "name": "Xixi",
+        "pinned_tweet_id": "2069714152843800892",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014222087808765952/hzvf-9Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7089,
+          "following_count": 16,
+          "like_count": 571,
+          "listed_count": 10,
+          "media_count": 13,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "wgylly2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
