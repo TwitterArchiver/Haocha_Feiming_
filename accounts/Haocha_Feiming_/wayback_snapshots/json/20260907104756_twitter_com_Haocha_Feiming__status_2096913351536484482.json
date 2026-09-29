@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096913340249575424",
+        "3_2096913340241235968",
+        "3_2096913340249649152"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2096913351536484482",
+    "created_at": "2026-09-07T10:47:56.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096913351536484482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EY2IvGGFY3",
+          "end": 71,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2096913351536484482/photo/1",
+          "media_key": "3_2096913340249575424",
+          "start": 48,
+          "url": "https://t.co/EY2IvGGFY3"
+        },
+        {
+          "display_url": "pic.x.com/EY2IvGGFY3",
+          "end": 71,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2096913351536484482/photo/1",
+          "media_key": "3_2096913340241235968",
+          "start": 48,
+          "url": "https://t.co/EY2IvGGFY3"
+        },
+        {
+          "display_url": "pic.x.com/EY2IvGGFY3",
+          "end": 71,
+          "expanded_url": "https://x.com/Haocha_Feiming_/status/2096913351536484482/photo/1",
+          "media_key": "3_2096913340249649152",
+          "start": 48,
+          "url": "https://t.co/EY2IvGGFY3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096913351536484482",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096913340249575424"
+      },
+      {
+        "media_key": "3_2096913340241235968"
+      },
+      {
+        "media_key": "3_2096913340249649152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用途。 https://t.co/EY2IvGGFY3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_2096913340249575424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm7krJakAAjAMw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096913340241235968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm7krHbUAAfql6.jpg",
+        "width": 1633
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096913340249649152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm7krJbsAA7_vk.jpg",
+        "width": 1307
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096913340249575424",
+            "3_2096913340241235968",
+            "3_2096913340249649152"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2096913351536484482",
+        "created_at": "2026-09-07T10:47:56.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096913351536484482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EY2IvGGFY3",
+              "end": 71,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2096913351536484482/photo/1",
+              "media_key": "3_2096913340249575424",
+              "start": 48,
+              "url": "https://t.co/EY2IvGGFY3"
+            },
+            {
+              "display_url": "pic.x.com/EY2IvGGFY3",
+              "end": 71,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2096913351536484482/photo/1",
+              "media_key": "3_2096913340241235968",
+              "start": 48,
+              "url": "https://t.co/EY2IvGGFY3"
+            },
+            {
+              "display_url": "pic.x.com/EY2IvGGFY3",
+              "end": 71,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2096913351536484482/photo/1",
+              "media_key": "3_2096913340249649152",
+              "start": 48,
+              "url": "https://t.co/EY2IvGGFY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096913351536484482",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096913340249575424"
+          },
+          {
+            "media_key": "3_2096913340241235968"
+          },
+          {
+            "media_key": "3_2096913340249649152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用途。 https://t.co/EY2IvGGFY3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2096913351536484482",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 191,
+          "like_count": 595,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 1115
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

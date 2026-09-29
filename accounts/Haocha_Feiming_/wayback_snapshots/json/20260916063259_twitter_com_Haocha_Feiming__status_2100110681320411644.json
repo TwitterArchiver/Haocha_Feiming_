@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094287126477393920"
+      ],
+      "media_source_tweet_id": [
+        "2094287138947018989"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2100110681320411644",
+    "created_at": "2026-09-16T06:32:59.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100110681320411644"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "广州"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "深圳"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062701445393043456",
+          "start": 3,
+          "username": "QxQQAQQwOuk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GmRxSx2D31",
+          "end": 57,
+          "expanded_url": "https://x.com/QxQQAQQwOuk/status/2094287138947018989/photo/1",
+          "media_key": "3_2094287126477393920",
+          "start": 34,
+          "url": "https://t.co/GmRxSx2D31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100110681320411644",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094287126477393920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094287138947018989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QxQQAQQwOuk: ＃爸爸活 ＃广州 ＃深圳 ＃线下 https://t.co/GmRxSx2D31"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2094287126477393920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBnC6db0AA58B_.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094287126477393920"
+          ],
+          "media_source_tweet_id": [
+            "2094287138947018989"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2100110681320411644",
+        "created_at": "2026-09-16T06:32:59.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100110681320411644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "广州"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "深圳"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062701445393043456",
+              "start": 3,
+              "username": "QxQQAQQwOuk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmRxSx2D31",
+              "end": 57,
+              "expanded_url": "https://x.com/QxQQAQQwOuk/status/2094287138947018989/photo/1",
+              "media_key": "3_2094287126477393920",
+              "start": 34,
+              "url": "https://t.co/GmRxSx2D31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100110681320411644",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094287126477393920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094287138947018989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QxQQAQQwOuk: ＃爸爸活 ＃广州 ＃深圳 ＃线下 https://t.co/GmRxSx2D31"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094287126477393920"
+          ]
+        },
+        "author_id": "2062701445393043456",
+        "conversation_id": "2094287138947018989",
+        "created_at": "2026-08-31T04:52:18.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094287138947018989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "广州"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "深圳"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GmRxSx2D31",
+              "end": 40,
+              "expanded_url": "https://x.com/QxQQAQQwOuk/status/2094287138947018989/photo/1",
+              "media_key": "3_2094287126477393920",
+              "start": 17,
+              "url": "https://t.co/GmRxSx2D31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094287138947018989",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094287126477393920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2036,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "＃爸爸活 ＃广州 ＃深圳 ＃线下 https://t.co/GmRxSx2D31"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 放炸号@Xiao_Lan_412 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Xiao_Lan_412"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2100110681320411644",
+        "name": "小澜且海豹412",
+        "pinned_tweet_id": "2099707433665085862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 201,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 1156
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-05T01:02:37.000Z",
+        "description": "过🚪解锁线下呐💕只回口令详细看频道https://t.co/tpQxCjj813",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hdidoxnm",
+                "end": 40,
+                "expanded_url": "https://t.me/hdidoxnm",
+                "start": 17,
+                "url": "https://t.co/tpQxCjj813"
+              }
+            ]
+          }
+        },
+        "id": "2062701445393043456",
+        "is_identity_verified": false,
+        "location": "188/388/520/1314坐标广州深圳",
+        "most_recent_tweet_id": "2100108892248367441",
+        "name": "摸一凹喵",
+        "pinned_tweet_id": "2094287138947018989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062701445393043456/1788228838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094609627166154752/GsXbGCbL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 11,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "QxQQAQQwOuk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

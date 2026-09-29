@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2099853181740282237",
+    "created_at": "2026-09-15T13:29:46.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099853181740282237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kaleuma567716/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kaleuma567716/status/2099687581831303485",
+          "start": 5,
+          "url": "https://t.co/uw9Z6MrAKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099853181740282237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099687581831303485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑死了 https://t.co/uw9Z6MrAKJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2099853181740282237",
+        "created_at": "2026-09-15T13:29:46.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099853181740282237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kaleuma567716/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kaleuma567716/status/2099687581831303485",
+              "start": 5,
+              "url": "https://t.co/uw9Z6MrAKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099853181740282237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099687581831303485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑死了 https://t.co/uw9Z6MrAKJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875569677621227520",
+        "conversation_id": "2099544795832270955",
+        "created_at": "2026-09-15T02:31:44.000Z",
+        "display_text_range": [
+          17,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099687581831303485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1976813139627839488",
+              "start": 0,
+              "username": "Cinnamoroll0320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099687581831303485",
+        "in_reply_to_user_id": "1976813139627839488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10321,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099544795832270955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cinnamoroll0320 我知道快手有个博主叫（泡芙味晚霞）的发的就是这种的，里面妹子刚贴护垫就变成一根硬邦邦卡在屁股里，然后开始各种姿势夹紧摩擦，看着又骚又软，刷快手太上头了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 放炸号@Xiao_Lan_412 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Xiao_Lan_412"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2099853181740282237",
+        "name": "小澜且海豹412",
+        "pinned_tweet_id": "2099707433665085862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 196,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T15:47:20.000Z",
+        "description": "",
+        "id": "1875569677621227520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099689208785051769",
+        "name": "카르마",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "kaleuma567716",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T00:52:51.000Z",
+        "description": "今晚的美梦是喜拿萌⊹꙳ ૮꒰˶´ᜊ` ˶꒱ა ⊹꙳",
+        "id": "1976813139627839488",
+        "is_identity_verified": false,
+        "location": "滚",
+        "most_recent_tweet_id": "2099836192141529167",
+        "name": "小貂",
+        "pinned_tweet_id": "1999828237971570865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976813139627839488/1765760696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089018219239804928/_VwVN0uV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 59,
+          "like_count": 7125,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 5546
+        },
+        "url": "",
+        "username": "Cinnamoroll0320",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

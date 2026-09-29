@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2099302814560501811",
+    "created_at": "2026-09-15T03:34:09.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099703290816819435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1624502882023374850",
+          "start": 0,
+          "username": "TUGOUSLW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099703290816819435",
+    "in_reply_to_user_id": "1624502882023374850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099302814560501811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TUGOUSLW 我也喜欢这么干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2099302814560501811",
+        "created_at": "2026-09-15T03:34:09.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099703290816819435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1624502882023374850",
+              "start": 0,
+              "username": "TUGOUSLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099703290816819435",
+        "in_reply_to_user_id": "1624502882023374850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099302814560501811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TUGOUSLW 我也喜欢这么干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624502882023374850",
+        "conversation_id": "2099302814560501811",
+        "created_at": "2026-09-14T01:02:48.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T02:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099302814560501811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099302814560501811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 240648,
+          "like_count": 1403,
+          "quote_count": 27,
+          "reply_count": 213,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "对啊，我打舌钉就是为了在口交的时候把我的舌钉球塞到马眼里"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 放炸号@Xiao_Lan_412 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Xiao_Lan_412"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2099703290816819435",
+        "name": "小澜且海豹412",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 194,
+          "like_count": 606,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 1137
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T20:17:42.000Z",
+        "description": "我不知道你知不知道欸\n@WaitWst 防走丢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "WaitWst"
+              }
+            ]
+          }
+        },
+        "id": "1624502882023374850",
+        "is_identity_verified": false,
+        "location": "比奇堡",
+        "most_recent_tweet_id": "2099635405964689526",
+        "name": "章鱼🐙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624502882023374850/1676148558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030023008824504320/PPwvCtRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 115,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "TUGOUSLW",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

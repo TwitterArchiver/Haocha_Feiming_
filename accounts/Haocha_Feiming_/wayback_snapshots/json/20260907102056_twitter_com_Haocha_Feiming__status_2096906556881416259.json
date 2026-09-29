@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "conversation_id": "2096400482680086709",
+    "created_at": "2026-09-07T10:20:56.000Z",
+    "display_text_range": [
+      30,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096906556881416259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768113741898698752",
+          "start": 0,
+          "username": "insaneEuphoric_"
+        },
+        {
+          "end": 29,
+          "id": "1975302442091757568",
+          "start": 17,
+          "username": "my_dear_smc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096906556881416259",
+    "in_reply_to_user_id": "1768113741898698752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096879981771325934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@insaneEuphoric_ @my_dear_smc haha thats it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "conversation_id": "2096400482680086709",
+        "created_at": "2026-09-07T10:20:56.000Z",
+        "display_text_range": [
+          30,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096906556881416259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768113741898698752",
+              "start": 0,
+              "username": "insaneEuphoric_"
+            },
+            {
+              "end": 29,
+              "id": "1975302442091757568",
+              "start": 17,
+              "username": "my_dear_smc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096906556881416259",
+        "in_reply_to_user_id": "1768113741898698752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096879981771325934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@insaneEuphoric_ @my_dear_smc haha thats it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768113741898698752",
+        "conversation_id": "2096400482680086709",
+        "created_at": "2026-09-07T08:35:20.000Z",
+        "display_text_range": [
+          30,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096879981771325934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243828267439792128",
+              "start": 0,
+              "username": "Haocha_Feiming_"
+            },
+            {
+              "end": 29,
+              "id": "1975302442091757568",
+              "start": 17,
+              "username": "my_dear_smc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096879981771325934",
+        "in_reply_to_user_id": "1243828267439792128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096400482680086709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haocha_Feiming_ @my_dear_smc Wait that container looks like my contact lenses container lol"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2096906556881416259",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 190,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1102
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-14T03:16:38.000Z",
+        "description": "I’m a nobody",
+        "id": "1768113741898698752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096899079406256522",
+        "name": "sanctuary",
+        "pinned_tweet_id": "2015108478030020652",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768113741898698752/1769274767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027456735083171840/bZBJ36Py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 307,
+          "like_count": 15364,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1104
+        },
+        "url": "",
+        "username": "insaneEuphoric_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T20:49:49.000Z",
+        "description": "⠀⠀⠀᭥ raineﾉlyney ¹⁹ ۪. ᴗ abro , ambi , aroaceflux ౨ৎ ❛ sngl ෆ ݂ ͘ ❝ salt on my tongue she’s stunnin’ ❞ . . . #diarytwt 𓂃 m/w no one ᢉ𐭩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 109,
+                "tag": "diarytwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mydearestsatoru.straw.page",
+                "end": 23,
+                "expanded_url": "https://mydearestsatoru.straw.page",
+                "start": 0,
+                "url": "https://t.co/d0XEADrgdB"
+              }
+            ]
+          }
+        },
+        "id": "1975302442091757568",
+        "is_identity_verified": false,
+        "location": "🐾   𓈒 　sheﾉheﾉpupﾉitﾉany　𑄝",
+        "most_recent_tweet_id": "2096798174618755187",
+        "name": "\" 🪽 toru ﾉ puppi﹒ ⏜⏜ 🎀⁷𓈒",
+        "pinned_tweet_id": "2082770818635809271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975302442091757568/1775721257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096716180040089600/fO1oVEjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 5280,
+          "like_count": 15493,
+          "listed_count": 34,
+          "media_count": 925,
+          "tweet_count": 12656
+        },
+        "url": "https://t.co/d0XEADrgdB",
+        "username": "my_dear_smc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

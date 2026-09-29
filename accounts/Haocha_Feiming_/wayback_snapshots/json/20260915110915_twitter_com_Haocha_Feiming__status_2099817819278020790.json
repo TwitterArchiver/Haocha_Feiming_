@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093967185412792320",
+        "3_2093967185417015296"
+      ],
+      "media_source_tweet_id": [
+        "2093967196934545605",
+        "2093967196934545605"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2099817819278020790",
+    "created_at": "2026-09-15T11:09:15.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099817819278020790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1853660529858134016",
+          "start": 3,
+          "username": "pparkie_cxxioi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S7YeTdGund",
+          "end": 49,
+          "expanded_url": "https://x.com/pparkie_cxxioi3/status/2093967196934545605/photo/1",
+          "media_key": "3_2093967185412792320",
+          "start": 26,
+          "url": "https://t.co/S7YeTdGund"
+        },
+        {
+          "display_url": "pic.x.com/S7YeTdGund",
+          "end": 49,
+          "expanded_url": "https://x.com/pparkie_cxxioi3/status/2093967196934545605/photo/1",
+          "media_key": "3_2093967185417015296",
+          "start": 26,
+          "url": "https://t.co/S7YeTdGund"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099817819278020790",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093967185412792320"
+      },
+      {
+        "media_key": "3_2093967185417015296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093967196934545605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pparkie_cxxioi3: 自介一则 https://t.co/S7YeTdGund"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2093967185412792320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9ED5HaoAAxf9X.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093967185417015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9ED5IbEAA1z5J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093967185412792320",
+            "3_2093967185417015296"
+          ],
+          "media_source_tweet_id": [
+            "2093967196934545605",
+            "2093967196934545605"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2099817819278020790",
+        "created_at": "2026-09-15T11:09:15.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099817819278020790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1853660529858134016",
+              "start": 3,
+              "username": "pparkie_cxxioi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7YeTdGund",
+              "end": 49,
+              "expanded_url": "https://x.com/pparkie_cxxioi3/status/2093967196934545605/photo/1",
+              "media_key": "3_2093967185412792320",
+              "start": 26,
+              "url": "https://t.co/S7YeTdGund"
+            },
+            {
+              "display_url": "pic.x.com/S7YeTdGund",
+              "end": 49,
+              "expanded_url": "https://x.com/pparkie_cxxioi3/status/2093967196934545605/photo/1",
+              "media_key": "3_2093967185417015296",
+              "start": 26,
+              "url": "https://t.co/S7YeTdGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099817819278020790",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093967185412792320"
+          },
+          {
+            "media_key": "3_2093967185417015296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093967196934545605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pparkie_cxxioi3: 自介一则 https://t.co/S7YeTdGund"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093967185412792320",
+            "3_2093967185417015296"
+          ]
+        },
+        "author_id": "1853660529858134016",
+        "conversation_id": "2093967196934545605",
+        "created_at": "2026-08-30T07:40:58.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093967196934545605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7YeTdGund",
+              "end": 28,
+              "expanded_url": "https://x.com/pparkie_cxxioi3/status/2093967196934545605/photo/1",
+              "media_key": "3_2093967185412792320",
+              "start": 5,
+              "url": "https://t.co/S7YeTdGund"
+            },
+            {
+              "display_url": "pic.x.com/S7YeTdGund",
+              "end": 28,
+              "expanded_url": "https://x.com/pparkie_cxxioi3/status/2093967196934545605/photo/1",
+              "media_key": "3_2093967185417015296",
+              "start": 5,
+              "url": "https://t.co/S7YeTdGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093967196934545605",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093967185412792320"
+          },
+          {
+            "media_key": "3_2093967185417015296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介一则 https://t.co/S7YeTdGund"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 放炸号@Xiao_Lan_412 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Xiao_Lan_412"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2099817819278020790",
+        "name": "小澜且海豹412",
+        "pinned_tweet_id": "2099707433665085862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 196,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T04:48:15.000Z",
+        "description": "澪子です。メンヘラ女子❤️‍🩹\n類似人間☠️/sh 、od/ズッ友@yahana_sama \ntrs•jh🐶bnd•jh🐾/maeda_riku_🐈‍⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "yahana_sama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/imangcnx.ii__3…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/imangcnx.ii__3?igsh=MWlhZDVyaTMwcnJwcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/16ghDig6Mx"
+              }
+            ]
+          }
+        },
+        "id": "1853660529858134016",
+        "is_identity_verified": false,
+        "location": "마른논에 물대기 ",
+        "most_recent_tweet_id": "2099815868901593571",
+        "name": "Miokko:-D",
+        "pinned_tweet_id": "2093967196934545605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853660529858134016/1776096117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082741943604490240/kI-juoLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 49,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/16ghDig6Mx",
+        "username": "pparkie_cxxioi3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

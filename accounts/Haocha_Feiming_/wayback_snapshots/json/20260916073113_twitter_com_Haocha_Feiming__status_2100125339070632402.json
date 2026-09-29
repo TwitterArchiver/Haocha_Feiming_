@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1243828267439792128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2100125339070632402",
+    "created_at": "2026-09-16T07:31:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T08:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100125339070632402"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 123,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "地雷女子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2098757864571699200",
+          "start": 3,
+          "username": "Xx_Renaaaa"
+        },
+        {
+          "end": 45,
+          "id": "1256757256214818818",
+          "start": 35,
+          "username": "GuimuRena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100125339070632402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100094066650439808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xx_Renaaaa: 🔝\n存个置顶防坠机\n这里氿木レナ\n大号＠GuimuRena\n04/🩸/💊/🚬/穿孔/双相情感障碍/adhd/重度焦虑/地雷女/cosplay/宅舞\n饿烤拉管还有其它音游音企都有在\n同类互转互fo大欢迎（会查成分\n\n#病み垢女子 #地雷女子 #メン…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100094058358362112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUIa1db0AAg49J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100094058375045120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUIa1haYAA3MRd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2100125339070632402",
+        "created_at": "2026-09-16T07:31:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100125339070632402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 123,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "地雷女子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2098757864571699200",
+              "start": 3,
+              "username": "Xx_Renaaaa"
+            },
+            {
+              "end": 45,
+              "id": "1256757256214818818",
+              "start": 35,
+              "username": "GuimuRena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100125339070632402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100094066650439808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xx_Renaaaa: 🔝\n存个置顶防坠机\n这里氿木レナ\n大号＠GuimuRena\n04/🩸/💊/🚬/穿孔/双相情感障碍/adhd/重度焦虑/地雷女/cosplay/宅舞\n饿烤拉管还有其它音游音企都有在\n同类互转互fo大欢迎（会查成分\n\n#病み垢女子 #地雷女子 #メン…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100094058358362112",
+            "3_2100094058375045120"
+          ]
+        },
+        "author_id": "2098757864571699200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2100094066650439808",
+        "created_at": "2026-09-16T05:26:58.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100094066650439808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 132,
+              "start": 126,
+              "tag": "雰囲気女子"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "OD"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "リスカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1256757256214818818",
+              "start": 19,
+              "username": "GuimuRena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdiS36nF5k",
+              "end": 165,
+              "expanded_url": "https://x.com/Xx_Renaaaa/status/2100094066650439808/photo/1",
+              "media_key": "3_2100094058358362112",
+              "start": 142,
+              "url": "https://t.co/VdiS36nF5k"
+            },
+            {
+              "display_url": "pic.x.com/VdiS36nF5k",
+              "end": 165,
+              "expanded_url": "https://x.com/Xx_Renaaaa/status/2100094066650439808/photo/1",
+              "media_key": "3_2100094058375045120",
+              "start": 142,
+              "url": "https://t.co/VdiS36nF5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100094066650439808",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100094058358362112"
+          },
+          {
+            "media_key": "3_2100094058375045120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n存个置顶防坠机\n这里氿木レナ\n大号＠GuimuRena\n04/🩸/💊/🚬/穿孔/双相情感障碍/adhd/重度焦虑/地雷女/cosplay/宅舞\n饿烤拉管还有其它音游音企都有在\n同类互转互fo大欢迎（会查成分\n\n#病み垢女子 #地雷女子 #メンヘラ #雰囲気女子 #OD #リスカ https://t.co/VdiS36nF5k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 放炸号@Xiao_Lan_412 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Xiao_Lan_412"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2100125339070632402",
+        "name": "小澜且海豹412",
+        "pinned_tweet_id": "2099707433665085862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 201,
+          "like_count": 615,
+          "listed_count": 1,
+          "media_count": 357,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-12T12:58:48.000Z",
+        "description": "大号@GuimuRena 防炸\n葛葉🩷梦女 CN|EN|JP 欢迎大家找我玩 #メンヘラ #双極性障害 #adhd #穿孔 #od #リスカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "双極性障害"
+              },
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "adhd"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "穿孔"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "od"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "リスカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "GuimuRena"
+              }
+            ]
+          }
+        },
+        "id": "2098757864571699200",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2100094066650439808",
+        "name": "氿木レナ2.0",
+        "pinned_tweet_id": "2100094066650439808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098757864571699200/1789218470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099779309062049792/XTrRLUBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 65,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Xx_Renaaaa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "小号@Xx_Renaaaa\n葛葉🩷梦女 CN|EN|JP 欢迎大家找我玩 #メンヘラ #双極性障害 #adhd #穿孔 #od #リスカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 37,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "双極性障害"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "adhd"
+              },
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "穿孔"
+              },
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "od"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "リスカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Xx_Renaaaa"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2100099775769231641",
+        "name": "氿木レナ",
+        "pinned_tweet_id": "2099781070736515452",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256757256214818818/1760626974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 519,
+          "like_count": 908,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 976
+        },
+        "url": "",
+        "username": "GuimuRena",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

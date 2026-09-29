@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096827968199036928"
+      ],
+      "media_source_tweet_id": [
+        "2096827978399547642"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2096909057231929824",
+    "created_at": "2026-09-07T10:30:52.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096909057231929824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755481615864872960",
+          "start": 3,
+          "username": "sjjsjq135000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jj64jycKvZ",
+          "end": 41,
+          "expanded_url": "https://x.com/sjjsjq135000/status/2096827978399547642/photo/1",
+          "media_key": "3_2096827968199036928",
+          "start": 18,
+          "url": "https://t.co/Jj64jycKvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096909057231929824",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096827968199036928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096827978399547642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjjsjq135000: https://t.co/Jj64jycKvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2607,
+        "media_key": "3_2096827968199036928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlt7XebkAA6TG_.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096827968199036928"
+          ],
+          "media_source_tweet_id": [
+            "2096827978399547642"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2096909057231929824",
+        "created_at": "2026-09-07T10:30:52.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096909057231929824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755481615864872960",
+              "start": 3,
+              "username": "sjjsjq135000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jj64jycKvZ",
+              "end": 41,
+              "expanded_url": "https://x.com/sjjsjq135000/status/2096827978399547642/photo/1",
+              "media_key": "3_2096827968199036928",
+              "start": 18,
+              "url": "https://t.co/Jj64jycKvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096909057231929824",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096827968199036928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096827978399547642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjjsjq135000: https://t.co/Jj64jycKvZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096827968199036928"
+          ]
+        },
+        "author_id": "1755481615864872960",
+        "conversation_id": "2096827978399547642",
+        "created_at": "2026-09-07T05:08:41.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096827978399547642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jj64jycKvZ",
+              "end": 23,
+              "expanded_url": "https://x.com/sjjsjq135000/status/2096827978399547642/photo/1",
+              "media_key": "3_2096827968199036928",
+              "start": 0,
+              "url": "https://t.co/Jj64jycKvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096827978399547642",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096827968199036928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jj64jycKvZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2096909057231929824",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2083636183847116838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 190,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1110
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T06:40:20.000Z",
+        "description": "https://t.co/p4Z1AzEsI2\n和我互动多的我都会回关的\n熟悉的互关可以加我V （和我说就行）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww49812",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ww49812",
+                "start": 0,
+                "url": "https://t.co/p4Z1AzEsI2"
+              }
+            ]
+          }
+        },
+        "id": "1755481615864872960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096902550360576179",
+        "name": "电次（米饭🍚）",
+        "pinned_tweet_id": "2093723942410506580",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755481615864872960/1738770886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009133454743752704/Z92W8eu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 343,
+          "like_count": 2692,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1568
+        },
+        "url": "",
+        "username": "sjjsjq135000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

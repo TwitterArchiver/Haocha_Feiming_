@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100386950125588480"
+      ],
+      "media_source_tweet_id": [
+        "2100387617980424200"
+      ]
+    },
+    "author_id": "1243828267439792128",
+    "conversation_id": "2100452252884623860",
+    "created_at": "2026-09-17T05:10:16.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T06:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100452252884623860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087636528633982976",
+          "start": 3,
+          "username": "67De_dian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V373kk1wEE",
+          "end": 131,
+          "expanded_url": "https://x.com/67De_dian/status/2100387617980424200/photo/1",
+          "media_key": "3_2100386950125588480",
+          "start": 108,
+          "url": "https://t.co/V373kk1wEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100452252884623860",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100386950125588480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100387617980424200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @67De_dian: 600fo庆祝🎉！！\n\n嘿嘿感谢各位宝宝呀\n转发+关注+评论点赞\n抽2个12r的奶茶呀🥰\n\n可以在评论区留下对我的印象嘛？\n想知道在别人的眼里我是怎么样的呢…(´∀`)！\n喜欢各位哦… https://t.co/V373kk1wEE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100386950125588480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYSzYUaEAA2uUM.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100386950125588480"
+          ],
+          "media_source_tweet_id": [
+            "2100387617980424200"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "conversation_id": "2100452252884623860",
+        "created_at": "2026-09-17T05:10:16.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100452252884623860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087636528633982976",
+              "start": 3,
+              "username": "67De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V373kk1wEE",
+              "end": 131,
+              "expanded_url": "https://x.com/67De_dian/status/2100387617980424200/photo/1",
+              "media_key": "3_2100386950125588480",
+              "start": 108,
+              "url": "https://t.co/V373kk1wEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100452252884623860",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100386950125588480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100387617980424200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @67De_dian: 600fo庆祝🎉！！\n\n嘿嘿感谢各位宝宝呀\n转发+关注+评论点赞\n抽2个12r的奶茶呀🥰\n\n可以在评论区留下对我的印象嘛？\n想知道在别人的眼里我是怎么样的呢…(´∀`)！\n喜欢各位哦… https://t.co/V373kk1wEE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100386950125588480"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "conversation_id": "2100387617980424200",
+        "created_at": "2026-09-17T00:53:26.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100387617980424200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V373kk1wEE",
+              "end": 116,
+              "expanded_url": "https://x.com/67De_dian/status/2100387617980424200/photo/1",
+              "media_key": "3_2100386950125588480",
+              "start": 93,
+              "url": "https://t.co/V373kk1wEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100387617980424200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100386950125588480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 729,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "600fo庆祝🎉！！\n\n嘿嘿感谢各位宝宝呀\n转发+关注+评论点赞\n抽2个12r的奶茶呀🥰\n\n可以在评论区留下对我的印象嘛？\n想知道在别人的眼里我是怎么样的呢…(´∀`)！\n喜欢各位哦… https://t.co/V373kk1wEE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 放炸号@Xiao_Lan_412 精神不正常 恋人@_XnanX_418 餐券逼 直fo查成分回 欢迎互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Xiao_Lan_412"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "_XnanX_418"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2100452252884623860",
+        "name": "小澜且海豹412",
+        "pinned_tweet_id": "2099707433665085862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243828267439792128/1785729973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091783877060915200/dVapPHpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 216,
+          "like_count": 616,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 1171
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2100420181495615733",
+        "name": "绝望_6De点（pr暂缺货，可提供其他药商）",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 479,
+          "like_count": 4612,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
